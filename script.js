@@ -1,9 +1,9 @@
 document.addEventListener('DOMContentLoaded', function() {
     currentIndex = 2;
     const comics = [
-        'body47-framed.png',
-        'gorgeous-framed.png',
-        'ai-job-framed.png',
+        'body47-tb-framed.png',
+        'gorgeous-tb-framed.png',
+        'ai-job-tb-framed.png',
     ];
 
     const comicImg = document.getElementById('comic-img');
