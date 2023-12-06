@@ -1,0 +1,80 @@
+document.addEventListener('DOMContentLoaded', function() {
+    currentIndex = 2;
+    const comics = [
+        'body47-framed.png',
+        'gorgeous-framed.png',
+        'ai-job-framed.png',
+    ];
+
+    const comicImg = document.getElementById('comic-img');
+    const firstButton = document.getElementById('first');
+    const prevButton = document.getElementById('prev');
+    const nextButton = document.getElementById('next');
+    const randomButton = document.getElementById('random');
+    const lastButton = document.getElementById('last');
+
+    firstButton.addEventListener('click', function() {
+        if (currentIndex > 0) {
+            currentIndex=0;
+            firstButton.disabled=true;
+            prevButton.disabled=true;
+            lastButton.disabled=false;
+            nextButton.disabled=false;            
+            updateComic();
+        }
+    });
+
+    lastButton.addEventListener('click', function() {
+        if (currentIndex < comics.length - 1) {
+            currentIndex=comics.length - 1;
+            lastButton.disabled=true;
+            nextButton.disabled=true;            
+            firstButton.disabled=false;
+            prevButton.disabled=false;
+         updateComic();
+        }
+    });
+
+
+    prevButton.addEventListener('click', function() {
+        if (currentIndex > 0) {
+            currentIndex--;
+            if (currentIndex==0) {firstButton.disabled=true; prevButton.disabled=true;}
+            lastButton.disabled=false;
+            nextButton.disabled=false;            
+
+            updateComic();
+        }
+    });
+
+    nextButton.addEventListener('click', function() {
+        if (currentIndex < comics.length - 1) {
+            currentIndex++;
+            if (currentIndex==comics.length - 1) {lastButton.disabled=true; nextButton.disabled=true;}
+            firstButton.disabled=false;
+            prevButton.disabled=false;            
+            updateComic();
+        }
+    });
+
+    randomButton.addEventListener('click', function() {
+        currentIndex = Math.floor(Math.random() * comics.length);
+        if (currentIndex==comics.length - 1) {lastButton.disabled=true; 
+                                              nextButton.disabled=true; 
+                                              firstButton.disabled=false; 
+                                              prevButton.disabled=false;}           
+        else if (currentIndex==0) {lastButton.disabled=false; 
+                                   nextButton.disabled=false; 
+                                   firstButton.disabled=true; 
+                                   prevButton.disabled=true;}           
+        else {lastButton.disabled=false; 
+              nextButton.disabled=false; 
+              firstButton.disabled=false; 
+              prevButton.disabled=false;} 
+        updateComic();
+    });
+
+    function updateComic() {
+        comicImg.src = comics[currentIndex];
+    }
+});
