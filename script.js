@@ -7,7 +7,6 @@ document.addEventListener('DOMContentLoaded', function() {
 /*
         'corporate-tb-framed.png',
         'day-jobs-tb-framed.png',
-        'adam-and-eve-tb-framed.png',
         'autodidact-tb-framed.png',
         'consent-tb-framed.png',
         'bitcoin-tb-framed.png',
