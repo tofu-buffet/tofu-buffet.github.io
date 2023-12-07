@@ -14,6 +14,7 @@ document.addEventListener('DOMContentLoaded', function() {
         'ai-job-tb-framed.png',
     ];
 
+    
     const comicImg = document.getElementById('comic-img');
     const firstButton = document.getElementById('first');
     const prevButton = document.getElementById('prev');
