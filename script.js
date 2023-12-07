@@ -2,6 +2,7 @@ document.addEventListener('DOMContentLoaded', function() {
     const comics = [
         'body47-tb-framed.png',
         'gorgeous-tb-framed.png',
+        'eden-tb-framed.png',
         'ai-job-tb-framed.png',
 /*
         'corporate-tb-framed.png',
