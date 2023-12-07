@@ -1,19 +1,20 @@
 document.addEventListener('DOMContentLoaded', function() {
-    currentIndex = 10;
     const comics = [
         'body47-tb-framed.png',
+        'gorgeous-tb-framed.png',
+        'ai-job-tb-framed.png',
+/*
+        'corporate-tb-framed.png',
         'day-jobs-tb-framed.png',
         'adam-and-eve-tb-framed.png',
         'autodidact-tb-framed.png',
+        'consent-tb-framed.png',
         'bitcoin-tb-framed.png',
         'body-part-tb-framed.png',
         'cardio-tb-framed.png',
-        'consent-tb-framed.png',
-        'gorgeous-tb-framed.png',
-        'corporate-tb-framed.png',
-        'ai-job-tb-framed.png',
+*/
     ];
-
+    currentIndex = comics.length - 1;
     
     const comicImg = document.getElementById('comic-img');
     const firstButton = document.getElementById('first');
