@@ -5,6 +5,7 @@ document.addEventListener('DOMContentLoaded', function() {
         'eden-tb-framed.png',
         'ai-job-tb-framed.png',
         'autodidact-tb-framed.png',
+        'hospital-tb-framed.png',
 /*
         'bitcoin-tb-framed.png',
         'body-part-tb-framed.png',
@@ -23,7 +24,6 @@ document.addEventListener('DOMContentLoaded', function() {
         'gladly-tb-framed.png',
         'gulls-tb-framed.png',
         'height-tb-framed.png',
-        'hospital-tb-framed.png',
         'land-tb-framed.png',
         'love-and-understanding-tb-framed.png',
         'management-tb-framed.png',
