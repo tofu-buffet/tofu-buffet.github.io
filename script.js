@@ -6,6 +6,7 @@ document.addEventListener('DOMContentLoaded', function() {
         'ai-job-tb-framed.png',
         'autodidact-tb-framed.png',
         'hospital-tb-framed.png',
+        'yakistani-tb-framed.png',
 /*
         'bitcoin-tb-framed.png',
         'body-part-tb-framed.png',
