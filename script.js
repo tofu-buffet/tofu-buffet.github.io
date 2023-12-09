@@ -7,6 +7,7 @@ document.addEventListener('DOMContentLoaded', function() {
         'autodidact-tb-framed.png',
         'hospital-tb-framed.png',
         'yakistani-tb-framed.png',
+        'straws-tb-framed.png',
 /*
         'bitcoin-tb-framed.png',
         'body-part-tb-framed.png',
@@ -47,7 +48,6 @@ document.addEventListener('DOMContentLoaded', function() {
         'shameless-plug-tb-framed.png',
         'significantly-tb-framed.png',
         'stomachs-tb-framed.png',
-        'straws-tb-framed.png',
         'stuck-tb-framed.png',
         'type-tb-framed.png',
         'validate-tb-framed.png',
