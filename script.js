@@ -21,7 +21,7 @@ document.addEventListener('DOMContentLoaded', function() {
         'flying-cars-tb-framed.png',
         'french-tb-framed.png',
         'gaslighting2-tb-framed.png',
-        'gemini-framed.png',
+        'gemini-tb-framed.png',
         'girlfriend-tb-framed.png',
         'gladly-tb-framed.png',
         'gulls-tb-framed.png',
