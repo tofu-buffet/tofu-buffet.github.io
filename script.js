@@ -14,7 +14,6 @@ document.addEventListener('DOMContentLoaded', function() {
         'corporate-tb-framed.png',
         'day-jobs-tb-framed.png',
         'eaten-tb-framed.png',
-        'eyes-tb-framed.png',
         'flying-cars-tb-framed.png',
         'french-tb-framed.png',
         'shameless-plug-tb-framed.png',
