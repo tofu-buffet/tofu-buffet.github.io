@@ -20,8 +20,8 @@ document.addEventListener('DOMContentLoaded', function() {
         'shameless-plug-tb-framed.png',
         'gaslighting2-tb-framed.png',
         'satan-tb-framed.png',
-/*
         'gemini-tb-framed.png',
+/*
         'girlfriend-tb-framed.png',
         'gladly-tb-framed.png',
         'gulls-tb-framed.png',
