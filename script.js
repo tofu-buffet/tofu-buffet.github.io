@@ -21,11 +21,11 @@ document.addEventListener('DOMContentLoaded', function() {
         'gaslighting2-tb-framed.png',
         'satan-tb-framed.png',
         'gemini-tb-framed.png',
-/*
         'girlfriend-tb-framed.png',
         'gladly-tb-framed.png',
         'gulls-tb-framed.png',
         'height-tb-framed.png',
+ /*
         'love-and-understanding-tb-framed.png',
         'management-tb-framed.png',
         'meteor-tb-framed.png',
