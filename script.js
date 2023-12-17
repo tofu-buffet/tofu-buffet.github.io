@@ -27,8 +27,8 @@ document.addEventListener('DOMContentLoaded', function() {
         'height-tb-framed.png',
         'love-and-understanding-tb-framed.png',
         'management-tb-framed.png',
- /*
         'meteor-tb-framed.png',
+ /*
         'consent-tb-framed.png',
         'normal-tb-framed.png',
         'norse-tb-framed.png',
