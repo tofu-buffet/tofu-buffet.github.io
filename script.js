@@ -28,6 +28,7 @@ document.addEventListener('DOMContentLoaded', function() {
         'love-and-understanding-tb-framed.png',
         'management-tb-framed.png',
         'meteor-tb-framed.png',
+        'stomachs-tb-framed.png',
  /*
         'consent-tb-framed.png',
         'normal-tb-framed.png',
@@ -46,7 +47,6 @@ document.addEventListener('DOMContentLoaded', function() {
         'secretly-tb-framed.png',
         'feelings-tb-framed.png',
         'significantly-tb-framed.png',
-        'stomachs-tb-framed.png',
         'stuck-tb-framed.png',
         'type-tb-framed.png',
         'validate-tb-framed.png',
