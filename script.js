@@ -31,6 +31,7 @@ document.addEventListener('DOMContentLoaded', function() {
         'stomachs-tb-framed.png',
         'paige-tb-framed.png',
         'norse-tb-framed.png',
+        'testimony.png',
  /*
         'consent-tb-framed.png',
         'normal-tb-framed.png',
