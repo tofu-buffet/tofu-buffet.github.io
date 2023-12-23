@@ -33,11 +33,11 @@ document.addEventListener('DOMContentLoaded', function() {
         'norse-tb-framed.png',
         'testimony.png',
         'privilege-tb-framed.png',
- /*
         'prostitutes-tb-framed.png',
         'racist-baby-tb-framed.png',
         'really-tb-framed.png',
         'rest-assured-tb-framed.png',
+ /*
         'rich-people-tb-framed.png',
         'sayit-tb-framed.png',
         'secretly-tb-framed.png',
