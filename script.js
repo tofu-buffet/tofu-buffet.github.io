@@ -37,6 +37,7 @@ document.addEventListener('DOMContentLoaded', function() {
         'racist-baby-tb-framed.png',
         'really-tb-framed.png',
         'rest-assured-tb-framed.png',
+        'best-case-tb-framed.png',
  /*
         'rich-people-tb-framed.png',
         'sayit-tb-framed.png',
