@@ -38,9 +38,9 @@ document.addEventListener('DOMContentLoaded', function() {
         'really-tb-framed.png',
         'rest-assured-tb-framed.png',
         'best-case-tb-framed.png',
- /*
         'rich-people-tb-framed.png',
         'sayit-tb-framed.png',
+ /*
         'secretly-tb-framed.png',
         'feelings-tb-framed.png',
         'consent-tb-framed.png',
