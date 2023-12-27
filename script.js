@@ -40,8 +40,8 @@ document.addEventListener('DOMContentLoaded', function() {
         'best-case-tb-framed.png',
         'rich-people-tb-framed.png',
         'sayit-tb-framed.png',
- /*
         'secretly-tb-framed.png',
+ /*
         'feelings-tb-framed.png',
         'consent-tb-framed.png',
         'normal-tb-framed.png',
