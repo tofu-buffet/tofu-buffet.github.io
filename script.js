@@ -46,8 +46,8 @@ document.addEventListener('DOMContentLoaded', function() {
         'normal-tb-framed.png',
         'offensive-tb-framed.png',
         'pedantophile-tb-framed.png',
- /*
         'players-tb-framed.png',
+ /*
         'significantly-tb-framed.png',
         'stuck-tb-framed.png',
         'type-tb-framed.png',
