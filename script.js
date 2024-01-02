@@ -48,9 +48,8 @@ document.addEventListener('DOMContentLoaded', function() {
         'pedantophile-tb-framed.png',
         'players-tb-framed.png',
         'significantly-tb-framed.png',
- /*
-        'stuck-tb-framed.png',
         'type-tb-framed.png',
+ /*
         'validate-tb-framed.png',
         'veni-tb-framed.png',
         'whythanks1-tb-framed.png',
@@ -58,6 +57,7 @@ document.addEventListener('DOMContentLoaded', function() {
         'whythanks3-tb-framed.png',
         'with-us-tb-framed.png',
         'wonder-tb-framed.png',
+        'stuck-tb-framed.png',
         'words-tb-framed.png',
         'yellow-fever-tb-framed.png',
         'yes-tb-framed.png',
