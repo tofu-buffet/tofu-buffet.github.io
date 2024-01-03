@@ -49,9 +49,9 @@ document.addEventListener('DOMContentLoaded', function() {
         'players-tb-framed.png',
         'significantly-tb-framed.png',
         'type-tb-framed.png',
+        'veni-tb-framed.png',
  /*
         'validate-tb-framed.png',
-        'veni-tb-framed.png',
         'whythanks1-tb-framed.png',
         'whythanks2-tb-framed.png',
         'whythanks3-tb-framed.png',
