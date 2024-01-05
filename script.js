@@ -52,10 +52,10 @@ document.addEventListener('DOMContentLoaded', function() {
         'veni-tb-framed.png',
         'with-us-tb-framed.png',
         'yes-tb-framed.png',
- /*
         'whythanks1-tb-framed.png',
         'whythanks2-tb-framed.png',
         'whythanks3-tb-framed.png',
+ /*
         'validate-tb-framed.png',
         'wonder-tb-framed.png',
         'stuck-tb-framed.png',
