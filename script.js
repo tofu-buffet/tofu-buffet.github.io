@@ -55,6 +55,7 @@ document.addEventListener('DOMContentLoaded', function() {
         'whythanks1-tb-framed.png',
         'whythanks2-tb-framed.png',
         'whythanks3-tb-framed.png',
+        'chinese-food-tb-framed.png',
  /*
         'validate-tb-framed.png',
         'wonder-tb-framed.png',
