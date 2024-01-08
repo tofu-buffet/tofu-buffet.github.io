@@ -57,9 +57,9 @@ document.addEventListener('DOMContentLoaded', function() {
         'whythanks3-tb-framed.png',
         'chinese-food-tb-framed.png',
         'automation-tb-framed.png',
+        'wonder-tb-framed.png',
  /*
         'validate-tb-framed.png',
-        'wonder-tb-framed.png',
         'stuck-tb-framed.png',
         'words-tb-framed.png',
         'yellow-fever-tb-framed.png',
