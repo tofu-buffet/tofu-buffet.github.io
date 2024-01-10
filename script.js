@@ -61,6 +61,7 @@ document.addEventListener('DOMContentLoaded', function() {
         'words-tb-framed.png',
         '9-9-6-tb-framed.png',
         'police-tb-framed.png',
+        'san-francisco-tb-framed.png',
  /*
         'after-tb-framed.png',
         'americans-tb-framed.png',
@@ -140,7 +141,6 @@ document.addEventListener('DOMContentLoaded', function() {
         'validate-tb-framed.png',
         'stuck-tb-framed.png',
         'yellow-fever-tb-framed.png',
-        'san-francisco-tb-framed.png',
 */
     ];
     currentIndex = comics.length - 1;
