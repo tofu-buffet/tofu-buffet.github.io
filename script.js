@@ -60,6 +60,7 @@ document.addEventListener('DOMContentLoaded', function() {
         'wonder-tb-framed.png',
         'words-tb-framed.png',
         '9-9-6-tb-framed.png',
+        'police-tb-framed.png',
  /*
         'after-tb-framed.png',
         'americans-tb-framed.png',
@@ -70,7 +71,6 @@ document.addEventListener('DOMContentLoaded', function() {
         'artist-tb-framed.png',
         'askme-tb-framed.png',
         'ask-tb-framed.png',
-        'automation-tb-framed.png',
         'awkward-tb-framed.png',
         'bedtime-tb-framed.png',
         'beg-tb-framed.png',
@@ -125,7 +125,6 @@ document.addEventListener('DOMContentLoaded', function() {
         'passive-tb-framed.png',
         'person-tb-framed.png',
         'pessimistic-tb-framed.png',
-        'police-tb-framed.png',
         'power-tb-framed.png',
         'rack-tb-framed.png',
         'resume-tb-framed.png',
