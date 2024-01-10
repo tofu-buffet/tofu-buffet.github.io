@@ -140,6 +140,7 @@ document.addEventListener('DOMContentLoaded', function() {
         'validate-tb-framed.png',
         'stuck-tb-framed.png',
         'yellow-fever-tb-framed.png',
+        'san-francisco-tb-framed.png',
 */
     ];
     currentIndex = comics.length - 1;
