@@ -59,8 +59,8 @@ document.addEventListener('DOMContentLoaded', function() {
         'automation-tb-framed.png',
         'wonder-tb-framed.png',
         'words-tb-framed.png',
- /*
         '9-9-6-tb-framed.png',
+ /*
         'after-tb-framed.png',
         'americans-tb-framed.png',
         'analogy-tb-framed.png',
