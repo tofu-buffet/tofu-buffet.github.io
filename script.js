@@ -62,6 +62,7 @@ document.addEventListener('DOMContentLoaded', function() {
         '9-9-6-tb-framed.png',
         'police-tb-framed.png',
         'san-francisco-tb-framed.png',
+        'blaming-tb-framed.png',
  /*
         'after-tb-framed.png',
         'americans-tb-framed.png',
