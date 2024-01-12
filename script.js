@@ -64,7 +64,8 @@ document.addEventListener('DOMContentLoaded', function() {
         'san-francisco-tb-framed.png',
         'blaming-tb-framed.png',
         'chewbacca-tb-framed.png',
- /*
+        'metric-tb-framed.png',
+/*
         'after-tb-framed.png',
         'americans-tb-framed.png',
         'analogy-tb-framed.png',
@@ -119,7 +120,6 @@ document.addEventListener('DOMContentLoaded', function() {
         'maga-tb-framed.png',
         'mayaphone-tb-framed.png',
         'metoo-tb-framed.png',
-        'metric-tb-framed.png',
         'nda-tb-framed.png',
         'not-fat-tb-framed.png',
         'omg-tb-framed.png',
