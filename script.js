@@ -63,6 +63,7 @@ document.addEventListener('DOMContentLoaded', function() {
         'police-tb-framed.png',
         'san-francisco-tb-framed.png',
         'blaming-tb-framed.png',
+        'chewbacca-tb-framed.png',
  /*
         'after-tb-framed.png',
         'americans-tb-framed.png',
@@ -83,7 +84,6 @@ document.addEventListener('DOMContentLoaded', function() {
         'censoring-tb-framed.png',
         'chatbot2-tb-framed.png',
         'chatbot-tb-framed.png',
-        'chewbacca-tb-framed.png',
         'cocaine-tb-framed.png',
         'cryptographer-tb-framed.png',
         'defeat-tb-framed.png',
