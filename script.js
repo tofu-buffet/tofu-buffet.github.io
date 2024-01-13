@@ -65,6 +65,7 @@ document.addEventListener('DOMContentLoaded', function() {
         'blaming-tb-framed.png',
         'chewbacca-tb-framed.png',
         'metric-tb-framed.png',
+        'cardiac-tb-framed.png',
 /*
         'after-tb-framed.png',
         'americans-tb-framed.png',
