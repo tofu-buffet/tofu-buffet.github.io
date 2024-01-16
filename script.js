@@ -69,9 +69,9 @@ document.addEventListener('DOMContentLoaded', function() {
         'americans-tb-framed.png',
         'statues-tb-framed.png',
         'pareto-tb-framed.png',
+        'analogy-tb-framed.png',
 /*
         'after-tb-framed.png',
-        'analogy-tb-framed.png',
         'anxiety-tb-framed.png',
         'appropriation-tb-framed.png',
         'argue-tb-framed.png',
