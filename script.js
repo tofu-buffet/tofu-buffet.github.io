@@ -70,6 +70,7 @@ document.addEventListener('DOMContentLoaded', function() {
         'statues-tb-framed.png',
         'pareto-tb-framed.png',
         'analogy-tb-framed.png',
+        'cryptographer-tb-framed.png',
 /*
         'after-tb-framed.png',
         'anxiety-tb-framed.png',
@@ -89,7 +90,6 @@ document.addEventListener('DOMContentLoaded', function() {
         'chatbot2-tb-framed.png',
         'chatbot-tb-framed.png',
         'cocaine-tb-framed.png',
-        'cryptographer-tb-framed.png',
         'defeat-tb-framed.png',
         'dialog-tb-framed.png',
         'diary-tb-framed.png',
