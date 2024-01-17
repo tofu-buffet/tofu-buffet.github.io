@@ -71,10 +71,10 @@ document.addEventListener('DOMContentLoaded', function() {
         'pareto-tb-framed.png',
         'analogy-tb-framed.png',
         'cryptographer-tb-framed.png',
+        'eel-tb-framed.png',
 /*
         'alone-tb-framed.png',
         'but-it-moves-tb-framed.png',
-        'eel-tb-framed.png',
         'hegemon-tb-framed.png',
         'holier-tb-framed.png',
         'jacket-tb-framed.png',
