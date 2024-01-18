@@ -73,6 +73,7 @@ document.addEventListener('DOMContentLoaded', function() {
         'cryptographer-tb-framed.png',
         'eel-tb-framed.png',
         'elect-tb-framed.png',
+        'pray-tb-framed.png',
 /*
         'alone-tb-framed.png',
         'but-it-moves-tb-framed.png',
