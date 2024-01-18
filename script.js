@@ -56,6 +56,7 @@ document.addEventListener('DOMContentLoaded', function() {
         'whythanks2-tb-framed.png',
         'whythanks3-tb-framed.png',
         'chinese-food-tb-framed.png',
+/*
         'automation-tb-framed.png',
         'wonder-tb-framed.png',
         'words-tb-framed.png',
@@ -74,7 +75,7 @@ document.addEventListener('DOMContentLoaded', function() {
         'eel-tb-framed.png',
         'elect-tb-framed.png',
         'pray-tb-framed.png',
-/*
+
         'alone-tb-framed.png',
         'but-it-moves-tb-framed.png',
         'hegemon-tb-framed.png',
