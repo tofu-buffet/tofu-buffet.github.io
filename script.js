@@ -75,6 +75,7 @@ document.addEventListener('DOMContentLoaded', function() {
         'cryptographer-tb-framed.png',
         'eel-tb-framed.png',
         'holier-tb-framed.png',
+        'gradient-tb-framed.png',
 /*
         'alone-tb-framed.png',
         'but-it-moves-tb-framed.png',
@@ -121,7 +122,6 @@ document.addEventListener('DOMContentLoaded', function() {
         'genetics-tb-framed.png',
         'goldfish-tb-framed.png',
         'goodtime-tb-framed.png',
-        'gradient-tb-framed.png',
         'guilty-tb-framed.png',
         'handsome-tb-framed.png',
         'headstands-tb-framed.png',
