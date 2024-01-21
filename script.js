@@ -78,7 +78,11 @@ document.addEventListener('DOMContentLoaded', function() {
         'gradient-tb-framed.png',
         'probably-not-tb-framed.png',
         'but-it-moves-tb-framed.png',
+        'milf-tb-framed.png',
 /*
+        'elvis-tb-framed.png',
+        'homeless-tb-framed.png',
+        'ssn-tb-framed.png',
         'alone-tb-framed.png',
         'hegemon-tb-framed.png',
         'jacket-tb-framed.png',
