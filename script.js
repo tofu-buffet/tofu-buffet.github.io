@@ -77,9 +77,9 @@ document.addEventListener('DOMContentLoaded', function() {
         'holier-tb-framed.png',
         'gradient-tb-framed.png',
         'probably-not-tb-framed.png',
+        'but-it-moves-tb-framed.png',
 /*
         'alone-tb-framed.png',
-        'but-it-moves-tb-framed.png',
         'hegemon-tb-framed.png',
         'jacket-tb-framed.png',
         'kierkegaard-tb-framed.png',
