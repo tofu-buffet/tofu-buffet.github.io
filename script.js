@@ -79,6 +79,7 @@ document.addEventListener('DOMContentLoaded', function() {
         'probably-not-tb-framed.png',
         'but-it-moves-tb-framed.png',
         'milf-tb-framed.png',
+        'awkward-tb-framed.png',
 /*
         'elvis-tb-framed.png',
         'homeless-tb-framed.png',
@@ -95,7 +96,6 @@ document.addEventListener('DOMContentLoaded', function() {
         'artist-tb-framed.png',
         'askme-tb-framed.png',
         'ask-tb-framed.png',
-        'awkward-tb-framed.png',
         'bedtime-tb-framed.png',
         'beg-tb-framed.png',
         'booty-tb-framed.png',
