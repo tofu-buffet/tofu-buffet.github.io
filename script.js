@@ -80,6 +80,7 @@ document.addEventListener('DOMContentLoaded', function() {
         'but-it-moves-tb-framed.png',
         'milf-tb-framed.png',
         'awkward-tb-framed.png',
+        'censoring-tb-framed.png',
 /*
         'elvis-tb-framed.png',
         'homeless-tb-framed.png',
@@ -102,7 +103,6 @@ document.addEventListener('DOMContentLoaded', function() {
         'briefing-tb-framed.png',
         'call-tb-framed.png',
         'careful-tb-framed.png',
-        'censoring-tb-framed.png',
         'chatbot2-tb-framed.png',
         'chatbot-tb-framed.png',
         'cocaine-tb-framed.png',
