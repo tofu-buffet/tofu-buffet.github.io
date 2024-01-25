@@ -84,11 +84,11 @@ document.addEventListener('DOMContentLoaded', function() {
         'homeless-tb-framed.png',
         'defeat-tb-framed.png',
         'for-realz-tb-framed.png',
+        'hegemon-tb-framed.png',
 /*
         'elvis-tb-framed.png',
         'ssn-tb-framed.png',
         'alone-tb-framed.png',
-        'hegemon-tb-framed.png',
         'jacket-tb-framed.png',
         'kierkegaard-tb-framed.png',
         'verify-tb-framed.png',
