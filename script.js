@@ -87,6 +87,7 @@ document.addEventListener('DOMContentLoaded', function() {
         'hegemon-tb-framed.png',
         'elvis-tb-framed.png',
         'ssn-tb-framed.png',
+        'fighter-tb-framed.png',
 /*
         'hegemonic-tb-framed.png',
         'bathroom-door-tb-framed.png',
@@ -120,7 +121,6 @@ document.addEventListener('DOMContentLoaded', function() {
         'dylan-tb-framed.png',
         'elephant-tb-framed.png',
         'fantasies-tb-framed.png',
-        'fighter-tb-framed.png',
         'fonts-tb-framed.png',
         'functioning-tb-framed.png',
         'gaslighting-tb-framed.png',
