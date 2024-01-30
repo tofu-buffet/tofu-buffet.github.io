@@ -89,6 +89,8 @@ document.addEventListener('DOMContentLoaded', function() {
         'ssn-tb-framed.png',
         'fighter-tb-framed.png',
 /*
+        'humbled-tb-framed.png',
+        'hegemony-charged-tb-framed.png',
         'hegemonic-tb-framed.png',
         'bathroom-door-tb-framed.png',
         'alone-tb-framed.png',
