@@ -86,10 +86,10 @@ document.addEventListener('DOMContentLoaded', function() {
         'for-realz-tb-framed.png',
         'hegemon-tb-framed.png',
         'elvis-tb-framed.png',
+        'ssn-tb-framed.png',
 /*
         'hegemonic-tb-framed.png',
         'bathroom-door-tb-framed.png',
-        'ssn-tb-framed.png',
         'alone-tb-framed.png',
         'jacket-tb-framed.png',
         'kierkegaard-tb-framed.png',
