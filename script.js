@@ -90,7 +90,7 @@ document.addEventListener('DOMContentLoaded', function() {
         'fighter-tb-framed.png',
         'after-tb-framed.png',
 /*
-        'humbled-tb-framed.png',
+        'humbled2-tb-framed.png',
         'hegemony-charged-tb-framed.png',
         'hegemonic-tb-framed.png',
         'bathroom-door-tb-framed.png',
