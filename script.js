@@ -90,8 +90,8 @@ document.addEventListener('DOMContentLoaded', function() {
         'fighter-tb-framed.png',
         'after-tb-framed.png',
         'argue-tb-framed.png',
-/*
         'cockatiel-tb-framed.png',
+/*
         'humbled2-tb-framed.png',
         'hegemony-charged-tb-framed.png',
         'hegemonic-tb-framed.png',
