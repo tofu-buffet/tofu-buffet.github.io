@@ -89,6 +89,7 @@ document.addEventListener('DOMContentLoaded', function() {
         'ssn-tb-framed.png',
         'fighter-tb-framed.png',
         'after-tb-framed.png',
+        'argue-tb-framed.png',
 /*
         'cockatiel-tb-framed.png',
         'humbled2-tb-framed.png',
@@ -101,7 +102,6 @@ document.addEventListener('DOMContentLoaded', function() {
         'verify-tb-framed.png',
         'anxiety-tb-framed.png',
         'appropriation-tb-framed.png',
-        'argue-tb-framed.png',
         'artist-tb-framed.png',
         'askme-tb-framed.png',
         'ask-tb-framed.png',
