@@ -91,6 +91,7 @@ document.addEventListener('DOMContentLoaded', function() {
         'after-tb-framed.png',
         'argue-tb-framed.png',
         'cockatiel-tb-framed.png',
+        'appropriation-tb-framed.png',
 /*
         'humbled2-tb-framed.png',
         'hegemony-charged-tb-framed.png',
@@ -100,8 +101,8 @@ document.addEventListener('DOMContentLoaded', function() {
         'jacket-tb-framed.png',
         'kierkegaard-tb-framed.png',
         'verify-tb-framed.png',
+        
         'anxiety-tb-framed.png',
-        'appropriation-tb-framed.png',
         'artist-tb-framed.png',
         'askme-tb-framed.png',
         'ask-tb-framed.png',
@@ -163,6 +164,7 @@ document.addEventListener('DOMContentLoaded', function() {
         'validate-tb-framed.png',
         'stuck-tb-framed.png',
         'yellow-fever-tb-framed.png',
+        
         'boots-tb-framed.png',
         'clock-check-tb-framed.png',
         'coach-tb-framed.png',
