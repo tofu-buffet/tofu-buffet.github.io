@@ -92,6 +92,7 @@ document.addEventListener('DOMContentLoaded', function() {
         'argue-tb-framed.png',
         'cockatiel-tb-framed.png',
         'appropriation-tb-framed.png',
+        'jen-tb-framed.png',
 /*
         'humbled2-tb-framed.png',
         'hegemony-charged-tb-framed.png',
@@ -139,7 +140,6 @@ document.addEventListener('DOMContentLoaded', function() {
         'ibm-tb-framed.png',
         'immigrants-tb-framed.png',
         'impertinent-tb-framed.png',
-        'jen-tb-framed.png',
         'maga-tb-framed.png',
         'mayaphone-tb-framed.png',
         'metoo-tb-framed.png',
