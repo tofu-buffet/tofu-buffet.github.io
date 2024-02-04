@@ -93,6 +93,7 @@ document.addEventListener('DOMContentLoaded', function() {
         'cockatiel-tb-framed.png',
         'appropriation-tb-framed.png',
         'jen-tb-framed.png',
+        'artist-tb-framed.png',
 /*
         'humbled2-tb-framed.png',
         'hegemony-charged-tb-framed.png',
@@ -104,7 +105,6 @@ document.addEventListener('DOMContentLoaded', function() {
         'verify-tb-framed.png',
         
         'anxiety-tb-framed.png',
-        'artist-tb-framed.png',
         'askme-tb-framed.png',
         'ask-tb-framed.png',
         'bedtime-tb-framed.png',
