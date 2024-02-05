@@ -95,6 +95,7 @@ document.addEventListener('DOMContentLoaded', function() {
         'jen-tb-framed.png',
         'artist-tb-framed.png',
         'hegemony-charge-tb-framed.png',
+        'dont-talk-tb-framed.png',
 /*
         'humbled2-tb-framed.png',
         'hegemonic-tb-framed.png',
@@ -121,7 +122,6 @@ document.addEventListener('DOMContentLoaded', function() {
         'difficult-tb-framed.png',
         'dirty-rat-tb-framed.png',
         'donate-tb-framed.png',
-        'dont-talk-tb-framed.png',
         'drawrings-tb-framed.png',
         'dylan-tb-framed.png',
         'elephant-tb-framed.png',
