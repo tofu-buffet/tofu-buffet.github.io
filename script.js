@@ -95,8 +95,9 @@ document.addEventListener('DOMContentLoaded', function() {
         'jen-tb-framed.png',
         'artist-tb-framed.png',
         'hegemony-charge-tb-framed.png',
-        'dont-talk-tb-framed.png',
+        'nda-tb-framed.png',
 /*
+        'dont-talk-tb-framed.png',
         'personality-tb-framed.png',
         'humbled2-tb-framed.png',
         'hegemonic-tb-framed.png',
@@ -144,7 +145,6 @@ document.addEventListener('DOMContentLoaded', function() {
         'maga-tb-framed.png',
         'mayaphone-tb-framed.png',
         'metoo-tb-framed.png',
-        'nda-tb-framed.png',
         'not-fat-tb-framed.png',
         'omg-tb-framed.png',
         'passive-tb-framed.png',
