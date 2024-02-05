@@ -96,9 +96,9 @@ document.addEventListener('DOMContentLoaded', function() {
         'artist-tb-framed.png',
         'hegemony-charge-tb-framed.png',
         'nda-tb-framed.png',
+        'personality-tb-framed.png',
 /*
         'dont-talk-tb-framed.png',
-        'personality-tb-framed.png',
         'humbled2-tb-framed.png',
         'hegemonic-tb-framed.png',
         'bathroom-door-tb-framed.png',
