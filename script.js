@@ -97,12 +97,12 @@ document.addEventListener('DOMContentLoaded', function() {
         'hegemony-charge-tb-framed.png',
         'nda-tb-framed.png',
         'personality-tb-framed.png',
-        'tsunami-tb-framed.png',
+        'too-much-art-tb-framed.png',
 /*
         'argue-all-day-tb-framed.png',
         'monetize-tb-framed.png',
         'stalk.png',
-        'too-much-art-tb-framed.png',
+        'tsunami-tb-framed.png',
         
         'dont-talk-tb-framed.png',
         'humbled2-tb-framed.png',
