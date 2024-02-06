@@ -99,6 +99,8 @@ document.addEventListener('DOMContentLoaded', function() {
         'personality-tb-framed.png',
         'too-much-art-tb-framed.png',
         'briefing-tb-framed.png',
+        'work-life-tb-framed.png',
+
 /*
         'argue-all-day-tb-framed.png',
         'monetize-tb-framed.png',
@@ -166,7 +168,6 @@ document.addEventListener('DOMContentLoaded', function() {
         'sugar-baby-tb-framed.png',
         'u-and-i-tb-framed.png',
         'violence-tb-framed.png',
-        'work-life-tb-framed.png',
         'youtube-tb-framed.png',
         'validate-tb-framed.png',
         'stuck-tb-framed.png',
