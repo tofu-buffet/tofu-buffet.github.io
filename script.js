@@ -100,7 +100,7 @@ document.addEventListener('DOMContentLoaded', function() {
         'too-much-art-tb-framed.png',
         'briefing-tb-framed.png',
         'work-life-tb-framed.png',
-
+        'booty-tb-framed.png',
 /*
         'argue-all-day-tb-framed.png',
         'monetize-tb-framed.png',
@@ -121,7 +121,6 @@ document.addEventListener('DOMContentLoaded', function() {
         'ask-tb-framed.png',
         'bedtime-tb-framed.png',
         'beg-tb-framed.png',
-        'booty-tb-framed.png',
         'call-tb-framed.png',
         'careful-tb-framed.png',
         'chatbot2-tb-framed.png',
