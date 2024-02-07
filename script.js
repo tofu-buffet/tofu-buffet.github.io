@@ -100,7 +100,7 @@ document.addEventListener('DOMContentLoaded', function() {
         'too-much-art-tb-framed.png',
         'briefing-tb-framed.png',
         'work-life-tb-framed.png',
-        'booty-tb-framed.png',
+        'drawrings-tb-framed.png',
 /*
         'argue-all-day-tb-framed.png',
         'monetize-tb-framed.png',
@@ -116,6 +116,7 @@ document.addEventListener('DOMContentLoaded', function() {
         'kierkegaard-tb-framed.png',
         'verify-tb-framed.png',
         
+        'booty-tb-framed.png',
         'anxiety-tb-framed.png',
         'askme-tb-framed.png',
         'ask-tb-framed.png',
@@ -131,7 +132,6 @@ document.addEventListener('DOMContentLoaded', function() {
         'difficult-tb-framed.png',
         'dirty-rat-tb-framed.png',
         'donate-tb-framed.png',
-        'drawrings-tb-framed.png',
         'dylan-tb-framed.png',
         'elephant-tb-framed.png',
         'fantasies-tb-framed.png',
