@@ -102,10 +102,13 @@ document.addEventListener('DOMContentLoaded', function() {
         'work-life-tb-framed.png',
         'drawrings-tb-framed.png',
         'stalk.png',
+        'climb-a-tree-tb-framed.png',
 /*
         'argue-all-day-tb-framed.png',
         'monetize-tb-framed.png',
         'tsunami-tb-framed.png',
+        'local-maximum-tb-framed.png',
+        'film-tb-framed.png',
         
         'dont-talk-tb-framed.png',
         'humbled2-tb-framed.png',
