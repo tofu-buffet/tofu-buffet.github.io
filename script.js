@@ -103,6 +103,7 @@ document.addEventListener('DOMContentLoaded', function() {
         'drawrings-tb-framed.png',
         'stalk.png',
         'climb-a-tree-tb-framed.png',
+        'coach-tb-framed.png',
 /*
         'argue-all-day-tb-framed.png',
         'monetize-tb-framed.png',
@@ -177,7 +178,7 @@ document.addEventListener('DOMContentLoaded', function() {
         
         'boots-tb-framed.png',
         'clock-check-tb-framed.png',
-        'coach-tb-framed.png',
+
         'competition-tb-framed.png',
         'conceptual-tb-framed.png',
         'hell-out-tb-framed.png',
