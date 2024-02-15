@@ -107,6 +107,7 @@ document.addEventListener('DOMContentLoaded', function() {
         'u-and-i-tb-framed.png',
         'headstands-tb-framed.png',
 /*
+        'monk-tb-framed.png',
         'stoplosingwar-tb-framed.png',
         'argue-tb-framed.png',
         'argue-all-day-tb-framed.png',
