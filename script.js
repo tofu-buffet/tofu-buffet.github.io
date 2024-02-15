@@ -105,6 +105,7 @@ document.addEventListener('DOMContentLoaded', function() {
         'coach-tb-framed.png',
         'ibm-tb-framed.png',
         'u-and-i-tb-framed.png',
+        'headstands-tb-framed.png',
 /*
         'stoplosingwar-tb-framed.png',
         'argue-tb-framed.png',
@@ -151,7 +152,6 @@ document.addEventListener('DOMContentLoaded', function() {
         'goodtime-tb-framed.png',
         'guilty-tb-framed.png',
         'handsome-tb-framed.png',
-        'headstands-tb-framed.png',
         'home-depot-tb-framed.png',
         'immigrants-tb-framed.png',
         'impertinent-tb-framed.png',
