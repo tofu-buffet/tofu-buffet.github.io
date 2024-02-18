@@ -107,6 +107,7 @@ document.addEventListener('DOMContentLoaded', function() {
         'u-and-i-tb-framed.png',
         'headstands-tb-framed.png',
         'maga-tb-framed.png',
+        'resume-tb-framed.png',
 /*
         'sugar-baby-tb-framed.png',
         'role-model-tb-framed.png',
@@ -168,7 +169,6 @@ document.addEventListener('DOMContentLoaded', function() {
         'pessimistic-tb-framed.png',
         'power-tb-framed.png',
         'rack-tb-framed.png',
-        'resume-tb-framed.png',
         'say-that-tb-framed.png',
         'spock-tb-framed.png',
         'violence-tb-framed.png',
