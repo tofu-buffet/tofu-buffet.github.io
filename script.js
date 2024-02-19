@@ -108,10 +108,10 @@ document.addEventListener('DOMContentLoaded', function() {
         'headstands-tb-framed.png',
         'maga-tb-framed.png',
         'resume-tb-framed.png',
+        'monk-tb-framed.png',
 /*
         'sugar-baby-tb-framed.png',
         'role-model-tb-framed.png',
-        'monk-tb-framed.png',
         'stoplosingwar-tb-framed.png',
         'argue-tb-framed.png',
         'argue-all-day-tb-framed.png',
