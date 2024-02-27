@@ -113,6 +113,7 @@ document.addEventListener('DOMContentLoaded', function() {
         'askme-tb-framed.png',
         'impertinent-tb-framed.png',
         'ken-tb-framed.png',
+        'violence-tb-framed.png',
 /*
         'sugar-baby-tb-framed.png',
         'role-model-tb-framed.png',
@@ -174,7 +175,6 @@ document.addEventListener('DOMContentLoaded', function() {
         'rack-tb-framed.png',
         'say-that-tb-framed.png',
         'spock-tb-framed.png',
-        'violence-tb-framed.png',
         'youtube-tb-framed.png',
         'validate-tb-framed.png',
         'stuck-tb-framed.png',
