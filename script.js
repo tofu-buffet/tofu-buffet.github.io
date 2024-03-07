@@ -116,7 +116,10 @@ document.addEventListener('DOMContentLoaded', function() {
         'violence-tb-framed.png',
         'role-model-tb-framed.png',
         'donate-tb-framed.png',
+        'baader-tb-framed.png',
 /*
+        'piracy-tb-framed.png',
+        'weed-tb-framed.png',
         'sugar-baby-tb-framed.png',
         'stoplosingwar-tb-framed.png',
         'argue-tb-framed.png',
