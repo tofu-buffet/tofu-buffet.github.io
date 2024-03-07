@@ -118,6 +118,10 @@ document.addEventListener('DOMContentLoaded', function() {
         'donate-tb-framed.png',
         'baader-tb-framed.png',
 /*
+        'seduction-tb-framed.png',
+        'nerdy-tb-framed.png',
+        'infamous-tb-framed.png',
+        'jesus-tb-framed.png',
         'piracy-tb-framed.png',
         'weed-tb-framed.png',
         'sugar-baby-tb-framed.png',
