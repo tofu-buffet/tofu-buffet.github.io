@@ -115,6 +115,7 @@ document.addEventListener('DOMContentLoaded', function() {
         'ken-tb-framed.png',
         'violence-tb-framed.png',
         'role-model-tb-framed.png',
+        'donate-tb-framed.png',
 /*
         'sugar-baby-tb-framed.png',
         'stoplosingwar-tb-framed.png',
@@ -148,7 +149,6 @@ document.addEventListener('DOMContentLoaded', function() {
         'diary-tb-framed.png',
         'difficult-tb-framed.png',
         'dirty-rat-tb-framed.png',
-        'donate-tb-framed.png',
         'dylan-tb-framed.png',
         'elephant-tb-framed.png',
         'fantasies-tb-framed.png',
