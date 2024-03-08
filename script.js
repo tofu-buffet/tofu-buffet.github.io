@@ -117,6 +117,7 @@ document.addEventListener('DOMContentLoaded', function() {
         'role-model-tb-framed.png',
         'donate-tb-framed.png',
         'baader-tb-framed.png',
+        'free-speech-tb-framed.png',
 /*
         'seduction-tb-framed.png',
         'nerdy-tb-framed.png',
