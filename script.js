@@ -118,6 +118,7 @@ document.addEventListener('DOMContentLoaded', function() {
         'donate-tb-framed.png',
         'baader-tb-framed.png',
         'free-speech-tb-framed.png',
+        'elephant-tb-framed.png',
 /*
         'seduction-tb-framed.png',
         'nerdy-tb-framed.png',
@@ -158,7 +159,6 @@ document.addEventListener('DOMContentLoaded', function() {
         'difficult-tb-framed.png',
         'dirty-rat-tb-framed.png',
         'dylan-tb-framed.png',
-        'elephant-tb-framed.png',
         'fantasies-tb-framed.png',
         'fonts-tb-framed.png',
         'functioning-tb-framed.png',
