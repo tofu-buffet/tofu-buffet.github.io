@@ -120,6 +120,7 @@ document.addEventListener('DOMContentLoaded', function() {
         'free-speech-tb-framed.png',
         'elephant-tb-framed.png',
         'dylan-tb-framed.png',
+        'stoplosingwar-tb-framed.png',
 /*
         'seduction-tb-framed.png',
         'nerdy-tb-framed.png',
@@ -128,7 +129,6 @@ document.addEventListener('DOMContentLoaded', function() {
         'piracy-tb-framed.png',
         'weed-tb-framed.png',
         'sugar-baby-tb-framed.png',
-        'stoplosingwar-tb-framed.png',
         'argue-tb-framed.png',
         'argue-all-day-tb-framed.png',
         'monetize-tb-framed.png',
