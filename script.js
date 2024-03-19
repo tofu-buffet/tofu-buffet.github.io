@@ -121,6 +121,7 @@ document.addEventListener('DOMContentLoaded', function() {
         'elephant-tb-framed.png',
         'dylan-tb-framed.png',
         'tsunami-tb-framed.png',
+        'cocaine-tb-framed.png',
 /*
         'stoplosingwar-tb-framed.png',
         'seduction-tb-framed.png',
