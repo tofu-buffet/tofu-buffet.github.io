@@ -122,12 +122,12 @@ document.addEventListener('DOMContentLoaded', function() {
         'dylan-tb-framed.png',
         'tsunami-tb-framed.png',
         'cocaine-tb-framed.png',
+        'jesus-tb-framed.png',
 /*
         'stoplosingwar-tb-framed.png',
         'seduction-tb-framed.png',
         'nerdy-tb-framed.png',
         'infamous-tb-framed.png',
-        'jesus-tb-framed.png',
         'piracy-tb-framed.png',
         'weed-tb-framed.png',
         'sugar-baby-tb-framed.png',
