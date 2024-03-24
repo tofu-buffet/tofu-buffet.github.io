@@ -2,7 +2,6 @@ document.addEventListener('DOMContentLoaded', function() {
     const comics = [
         'body47-tb-framed.png',
         'gorgeous-tb-framed.png',
-        'eden-tb-framed.png',
         'ai-job-tb-framed.png',
         'autodidact-tb-framed.png',
         'land-tb-framed.png',
@@ -52,9 +51,6 @@ document.addEventListener('DOMContentLoaded', function() {
         'veni-tb-framed.png',
         'with-us-tb-framed.png',
         'yes-tb-framed.png',
-        'whythanks1-tb-framed.png',
-        'whythanks2-tb-framed.png',
-        'whythanks3-tb-framed.png',
         'chinese-food-tb-framed.png',
         'elect-tb-framed.png',
         'automation-tb-framed.png',
@@ -99,6 +95,10 @@ document.addEventListener('DOMContentLoaded', function() {
         'too-much-art-tb-framed.png',
         'briefing-tb-framed.png',
         'work-life-tb-framed.png',
+        'whythanks1-tb-framed.png',
+        'whythanks2-tb-framed.png',
+        'whythanks3-tb-framed.png',
+        'eden-tb-framed.png',
         'drawrings-tb-framed.png',
         'stalk.png',
         'climb-a-tree-tb-framed.png',
@@ -281,7 +281,8 @@ document.addEventListener('DOMContentLoaded', function() {
     });
 
     randomButton.addEventListener('click', function() {
-        currentIndex = Math.floor(Math.random() * comics.length);
+        currentIndex = Math.floor(Math.random() * 95);
+// * comics.length);
         if (currentIndex==comics.length - 1) {lastButton.disabled=true; 
                                               nextButton.disabled=true; 
                                               firstButton.disabled=false; 
