@@ -125,8 +125,8 @@ document.addEventListener('DOMContentLoaded', function() {
         'jesus-tb-framed.png',
         'functioning-tb-framed.png',
         'youtube-tb-framed.png',
-/*
         'sugar-baby-tb-framed.png',
+/*
         'stoplosingwar-tb-framed.png',
         'seduction-tb-framed.png',
         'nerdy-tb-framed.png',
