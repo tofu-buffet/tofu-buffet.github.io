@@ -132,9 +132,9 @@ document.addEventListener('DOMContentLoaded', function() {
         'not-fat-tb-framed.png',
         'u2-tb-framed.png',
         'seem-awesome-tb-framed.png',
+        'jacket-tb-framed.png',
 /*
         'alone-tb-framed.png',
-        'jacket-tb-framed.png',
         'housewife-tb-framed.png',
         'stoplosingwar-tb-framed.png',
         'seduction-tb-framed.png',
