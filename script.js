@@ -133,10 +133,10 @@ document.addEventListener('DOMContentLoaded', function() {
         'u2-tb-framed.png',
         'seem-awesome-tb-framed.png',
         'jacket-tb-framed.png',
+        'stoplosingwar-tb-framed.png',
 /*
         'alone-tb-framed.png',
         'housewife-tb-framed.png',
-        'stoplosingwar-tb-framed.png',
         'seduction-tb-framed.png',
         'argue-all-day-tb-framed.png',
         'hegemonic-tb-framed.png',
