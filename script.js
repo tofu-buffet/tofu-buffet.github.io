@@ -135,6 +135,7 @@ document.addEventListener('DOMContentLoaded', function() {
         'jacket-tb-framed.png',
         'stoplosingwar-tb-framed.png',
         'alone-tb-framed.png',
+        'spock-tb-framed.png',
 /*
         'housewife-tb-framed.png',
         'seduction-tb-framed.png',
@@ -150,8 +151,7 @@ document.addEventListener('DOMContentLoaded', function() {
         'yellow-fever-tb-framed.png',
         'rack-tb-framed.png',
         'say-that-tb-framed.png',
-        'spock-tb-framed.png',
-        'validate-tb-framed.png',
+         'validate-tb-framed.png',
         'stuck-tb-framed.png',
         'competition-tb-framed.png',
         'hell-out-tb-framed.png',
