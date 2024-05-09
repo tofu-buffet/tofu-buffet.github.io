@@ -139,7 +139,17 @@ document.addEventListener('DOMContentLoaded', function() {
         'validate-tb-framed.png',
         'seduction-tb-framed.png',
         'wine-tb-framed.png',
+        'reparations-tb-framed.png',
 /*
+        'cult-leader-tb-framed.png',
+        'fukkin-hair-tb-framed.png',
+        'memory-tb-framed.png',
+        'proficient-tb-framed.png',
+        'butt-tb-framed.png',
+        'body-like-that-tb-framed.png',
+        'ukraine-tb-framed.png',
+        'soeur-tb-framed.png',
+        
         'housewife-tb-framed.png',
         'argue-all-day-tb-framed.png',
         'hegemonic-tb-framed.png',
