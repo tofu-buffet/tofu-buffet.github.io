@@ -141,19 +141,15 @@ document.addEventListener('DOMContentLoaded', function() {
         'wine-tb-framed.png',
         'reparations-tb-framed.png',
 /*
-        'cult-leader-tb-framed.png',
-        'fukkin-hair-tb-framed.png',
-        'memory-tb-framed.png',
+        'hell-out-tb-framed.png',
         'proficient-tb-framed.png',
         'butt-tb-framed.png',
         'body-like-that-tb-framed.png',
         'ukraine-tb-framed.png',
-        'soeur-tb-framed.png',
-        
         'housewife-tb-framed.png',
         'argue-all-day-tb-framed.png',
         'hegemonic-tb-framed.png',
-        'ask-tb-framed.png',
+        
         'bedtime-tb-framed.png',
         'beg-tb-framed.png',
         'handsome-tb-framed.png',
@@ -165,7 +161,6 @@ document.addEventListener('DOMContentLoaded', function() {
         'say-that-tb-framed.png',
         'stuck-tb-framed.png',
         'competition-tb-framed.png',
-        'hell-out-tb-framed.png',
         'nice-ass-tb-framed.png',
         'room-six-tb-framed.png',
         'restaurant-tb-framed.png',
@@ -174,6 +169,12 @@ document.addEventListener('DOMContentLoaded', function() {
         'solitude-tb-framed.png',
         'starbucks-tb-framed.png',
         'unemployed-tb-framed.png',
+        'ask-tb-framed.png',
+
+        'soeur-tb-framed.png',
+        'cult-leader-tb-framed.png',
+        'fukkin-hair-tb-framed.png',
+        'memory-tb-framed.png',
 
         'nerdy-tb-framed.png',
         'piracy-tb-framed.png',
