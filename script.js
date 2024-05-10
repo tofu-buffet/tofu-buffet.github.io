@@ -141,8 +141,8 @@ document.addEventListener('DOMContentLoaded', function() {
         'wine-tb-framed.png',
         'reparations-tb-framed.png',
         'hell-out-tb-framed.png',
-/*
         'proficient-tb-framed.png',
+/*
         'butt-tb-framed.png',
         'body-like-that-tb-framed.png',
         'ukraine-tb-framed.png',
