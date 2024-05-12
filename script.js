@@ -142,6 +142,7 @@ document.addEventListener('DOMContentLoaded', function() {
         'reparations-tb-framed.png',
         'hell-out-tb-framed.png',
         'proficient-tb-framed.png',
+        'competition-tb-framed.png',
 /*
         'butt-tb-framed.png',
         'body-like-that-tb-framed.png',
@@ -160,7 +161,6 @@ document.addEventListener('DOMContentLoaded', function() {
         'rack-tb-framed.png',
         'say-that-tb-framed.png',
         'stuck-tb-framed.png',
-        'competition-tb-framed.png',
         'nice-ass-tb-framed.png',
         'room-six-tb-framed.png',
         'restaurant-tb-framed.png',
