@@ -143,6 +143,7 @@ document.addEventListener('DOMContentLoaded', function() {
         'hell-out-tb-framed.png',
         'proficient-tb-framed.png',
         'competition-tb-framed.png',
+        'yellow-fever-tb-framed.png',
 /*
         'butt-tb-framed.png',
         'body-like-that-tb-framed.png',
@@ -157,7 +158,6 @@ document.addEventListener('DOMContentLoaded', function() {
         'immigrants-tb-framed.png',
         'metoo-tb-framed.png',
         'pessimistic-tb-framed.png',
-        'yellow-fever-tb-framed.png',
         'rack-tb-framed.png',
         'say-that-tb-framed.png',
         'stuck-tb-framed.png',
