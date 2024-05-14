@@ -144,11 +144,11 @@ document.addEventListener('DOMContentLoaded', function() {
         'proficient-tb-framed.png',
         'competition-tb-framed.png',
         'yellow-fever-tb-framed.png',
+        'housewife-tb-framed.png',
 /*
         'butt-tb-framed.png',
         'body-like-that-tb-framed.png',
         'ukraine-tb-framed.png',
-        'housewife-tb-framed.png',
         'argue-all-day-tb-framed.png',
         'hegemonic-tb-framed.png',
         
