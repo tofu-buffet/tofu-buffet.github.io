@@ -146,6 +146,9 @@ document.addEventListener('DOMContentLoaded', function() {
         'yellow-fever-tb-framed.png',
         'housewife-tb-framed.png',
 /*
+        'boyfriend-solved-tb-framed.png',
+        'cosmologist-tb-framed.png',
+        'penny-tb-framed.png',
         'butt-tb-framed.png',
         'body-like-that-tb-framed.png',
         'ukraine-tb-framed.png',
