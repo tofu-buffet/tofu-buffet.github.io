@@ -147,8 +147,8 @@ document.addEventListener('DOMContentLoaded', function() {
         'housewife-tb-framed.png',
         'boyfriend-solved-tb-framed.png',
         'butt-nothing-tb-framed.png',
-/*
         'cosmologist-tb-framed.png',
+/*
         'penny-tb-framed.png',
         'body-like-that-tb-framed.png',
         'ukraine-tb-framed.png',
