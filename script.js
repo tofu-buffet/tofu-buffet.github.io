@@ -148,6 +148,7 @@ document.addEventListener('DOMContentLoaded', function() {
         'boyfriend-solved-tb-framed.png',
         'butt-nothing-tb-framed.png',
         'cosmologist-tb-framed.png',
+        'metoo-tb-framed.png',
 /*
         'penny-tb-framed.png',
         'body-like-that-tb-framed.png',
@@ -158,7 +159,6 @@ document.addEventListener('DOMContentLoaded', function() {
         'beg-tb-framed.png',
         'handsome-tb-framed.png',
         'immigrants-tb-framed.png',
-        'metoo-tb-framed.png',
         'pessimistic-tb-framed.png',
         'rack-tb-framed.png',
         'say-that-tb-framed.png',
