@@ -151,6 +151,7 @@ document.addEventListener('DOMContentLoaded', function() {
         'metoo-tb-framed.png',
         'say-that-tb-framed.png',
         'nice-ass-tb-framed.png',
+        'solve-tb-framed.png',
 /*
         'penny-tb-framed.png',
         'body-like-that-tb-framed.png',
@@ -229,7 +230,6 @@ document.addEventListener('DOMContentLoaded', function() {
         'restroom-tb-framed.png',
         'scotch2-tb-framed.png',
         'shaved-tb-framed.png',
-        'solve-tb-framed.png',
         'stick-tb-framed.png',
         'talking-tb-framed.png',
         'tanktops-tb-framed.png',
