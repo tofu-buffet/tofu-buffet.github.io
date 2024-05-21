@@ -152,11 +152,11 @@ document.addEventListener('DOMContentLoaded', function() {
         'say-that-tb-framed.png',
         'nice-ass-tb-framed.png',
         'solve-tb-framed.png',
+        'argue-all-day-tb-framed.png',
 /*
         'penny-tb-framed.png',
         'body-like-that-tb-framed.png',
         'ukraine-tb-framed.png',
-        'argue-all-day-tb-framed.png',
         'hegemonic-tb-framed.png',
         'bedtime-tb-framed.png',
         'beg-tb-framed.png',
