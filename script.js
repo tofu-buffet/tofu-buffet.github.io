@@ -153,6 +153,7 @@ document.addEventListener('DOMContentLoaded', function() {
         'nice-ass-tb-framed.png',
         'solve-tb-framed.png',
         'argue-all-day-tb-framed.png',
+        'sisyphus-tb-framed.png',
 /*
         'penny-tb-framed.png',
         'body-like-that-tb-framed.png',
@@ -168,7 +169,6 @@ document.addEventListener('DOMContentLoaded', function() {
         'room-six-tb-framed.png',
         'restaurant-tb-framed.png',
         'schoolgirl-tb-framed.png',
-        'sisyphus-tb-framed.png',
         'solitude-tb-framed.png',
         'starbucks-tb-framed.png',
         'unemployed-tb-framed.png',
