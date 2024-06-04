@@ -154,6 +154,7 @@ document.addEventListener('DOMContentLoaded', function() {
         'solve-tb-framed.png',
         'argue-all-day-tb-framed.png',
         'sisyphus-tb-framed.png',
+        'vacuum-tb-framed.png',
 /*
         'penny-tb-framed.png',
         'body-like-that-tb-framed.png',
