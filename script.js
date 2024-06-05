@@ -155,6 +155,7 @@ document.addEventListener('DOMContentLoaded', function() {
         'argue-all-day-tb-framed.png',
         'sisyphus-tb-framed.png',
         'vacuum-tb-framed.png',
+        'chatbot-tb-framed.png',
 /*
         'penny-tb-framed.png',
         'body-like-that-tb-framed.png',
@@ -204,7 +205,6 @@ document.addEventListener('DOMContentLoaded', function() {
         'anxiety-tb-framed.png',
         'careful-tb-framed.png',
         'chatbot2-tb-framed.png',
-        'chatbot-tb-framed.png',
         'dialog-tb-framed.png',
         'diary-tb-framed.png',
         'difficult-tb-framed.png',
