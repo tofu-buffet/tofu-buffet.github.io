@@ -175,6 +175,13 @@ document.addEventListener('DOMContentLoaded', function() {
         'unemployed-tb-framed.png',
         'ask-tb-framed.png',
 
+        'not-useful-tb-framed.png',
+        'broken-tb-framed.png',
+        'hamburger-tb-framed.png',
+        'parties-tb-framed.png',
+        'eggplant-tacos-tb-framed.png',
+        'fool-me-tb-framed.png',
+
         'soeur-tb-framed.png',
         'cult-leader-tb-framed.png',
         'fukkin-hair-tb-framed.png',
