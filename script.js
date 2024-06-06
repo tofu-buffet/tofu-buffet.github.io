@@ -158,6 +158,7 @@ document.addEventListener('DOMContentLoaded', function() {
         'chatbot-tb-framed.png',
         'regulated-tb-framed.png',
 /*
+        'acceptable-tb-framed.png',
         'vc-tb-framed.png',
         'body-like-that-tb-framed.png',
         'rack-tb-framed.png',
