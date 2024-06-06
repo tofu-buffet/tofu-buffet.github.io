@@ -157,8 +157,9 @@ document.addEventListener('DOMContentLoaded', function() {
         'vacuum-tb-framed.png',
         'chatbot-tb-framed.png',
         'regulated-tb-framed.png',
-/*
         'acceptable-tb-framed.png',
+/*
+        'unable-tb-framed.png',
         'vc-tb-framed.png',
         'body-like-that-tb-framed.png',
         'rack-tb-framed.png',
