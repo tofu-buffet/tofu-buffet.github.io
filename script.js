@@ -159,12 +159,12 @@ document.addEventListener('DOMContentLoaded', function() {
         'regulated-tb-framed.png',
         'acceptable-tb-framed.png',
         'motivation-tb-framed.png',
+        'starbucks-tb-framed.png',
 /*
         'unwilling-tb-framed.png',
         'vc-tb-framed.png',
         'body-like-that-tb-framed.png',
         'rack-tb-framed.png',
-        'starbucks-tb-framed.png',
         'room-six-tb-framed.png',
         'solitude-tb-framed.png',
         'g-ddammit-tb-framed.png',
