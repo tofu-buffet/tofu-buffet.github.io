@@ -164,6 +164,7 @@ document.addEventListener('DOMContentLoaded', function() {
         'vc-tb-framed.png',
         'thalmann-tb-framed.png',
 /*
+        'peace-tb-framed.png',
         'unwilling-tb-framed.png',
         'body-like-that-tb-framed.png',
         'rack-tb-framed.png',
