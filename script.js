@@ -164,6 +164,7 @@ document.addEventListener('DOMContentLoaded', function() {
         'vc-tb-framed.png',
         'thalmann-tb-framed.png',
         'peace-tb-framed.png',
+        'boots-tb-framed.png',
 /*
         'unwilling-tb-framed.png',
         'body-like-that-tb-framed.png',
@@ -175,7 +176,6 @@ document.addEventListener('DOMContentLoaded', function() {
         'parties-tb-framed.png',
         'chatbot2-tb-framed.png',
         'goodtime-tb-framed.png',
-        'boots-tb-framed.png',
         'conceptual-tb-framed.png',
         'talking-tb-framed.png',
         'war-tb-framed.png',
