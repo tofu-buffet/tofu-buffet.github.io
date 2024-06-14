@@ -166,6 +166,7 @@ document.addEventListener('DOMContentLoaded', function() {
         'peace-tb-framed.png',
         'boots-tb-framed.png',
         'fake-corporations-tb-framed.png',
+        'parties-tb-framed.png',
 /*
         'unwilling-tb-framed.png',
         'body-like-that-tb-framed.png',
@@ -174,7 +175,6 @@ document.addEventListener('DOMContentLoaded', function() {
         'solitude-tb-framed.png',
         'g-ddammit-tb-framed.png',
         'stuck-tb-framed.png',
-        'parties-tb-framed.png',
         'chatbot2-tb-framed.png',
         'goodtime-tb-framed.png',
         'conceptual-tb-framed.png',
