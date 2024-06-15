@@ -168,6 +168,7 @@ document.addEventListener('DOMContentLoaded', function() {
         'fake-corporations-tb-framed.png',
         'parties-tb-framed.png',
 /*
+        'platonic-tb-framed.png',
         'unwilling-tb-framed.png',
         'body-like-that-tb-framed.png',
         'rack-tb-framed.png',
