@@ -160,15 +160,15 @@ document.addEventListener('DOMContentLoaded', function() {
         'acceptable-tb-framed.png',
         'motivation-tb-framed.png',
         'starbucks-tb-framed.png',
+        'parties-tb-framed.png',
         'schoolgirl-tb-framed.png',
         'vc-tb-framed.png',
         'thalmann-tb-framed.png',
         'peace-tb-framed.png',
         'boots-tb-framed.png',
         'fake-corporations-tb-framed.png',
-        'parties-tb-framed.png',
-/*
         'my-fortune-cookie-tb-framed.png',
+/*
         'platonic-tb-framed.png',
         'unwilling-tb-framed.png',
         'body-like-that-tb-framed.png',
