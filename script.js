@@ -265,6 +265,7 @@ document.addEventListener('DOMContentLoaded', function() {
     currentIndex = comics.length - 1;
     
     const comicImg = document.getElementById('comic-img');
+    const comicNumber = document.getElementById('comic-number'); // Added this line
     const firstButton = document.getElementById('first');
     const prevButton = document.getElementById('prev');
     const nextButton = document.getElementById('next');
