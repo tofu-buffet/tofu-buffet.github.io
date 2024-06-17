@@ -336,5 +336,6 @@ document.addEventListener('DOMContentLoaded', function() {
 
     function updateComic() {
         comicImg.src = comics[currentIndex];
+        comicNumber.textContent = `[ ${currentIndex + 1} / XXX ]`;
     }
 });
