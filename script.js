@@ -171,6 +171,7 @@ document.addEventListener('DOMContentLoaded', function() {
         'who-they-really-are-tb-framed.png',
         'solitude-tb-framed.png',
         'conceptual-tb-framed.png',
+        'trust-anybody-tb-framed.png',
 /*
         'rr-tb-framed.png',
         'platonic-tb-framed.png',
