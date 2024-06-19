@@ -175,6 +175,7 @@ document.addEventListener('DOMContentLoaded', function() {
         'platonic-tb-framed.png',
         'creative-differences-tb-framed.png',
 /*
+        'confidence-tb-framed.png',
         'typing-practice-tb-framed.png',
         'fool-me-tb-framed.png',
         'rr-tb-framed.png',
