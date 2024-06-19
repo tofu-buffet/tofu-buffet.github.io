@@ -173,6 +173,7 @@ document.addEventListener('DOMContentLoaded', function() {
         'conceptual-tb-framed.png',
         'trust-anybody-tb-framed.png',
         'platonic-tb-framed.png',
+        'creative-differences-tb-framed.png',
 /*
         'typing-practice-tb-framed.png',
         'fool-me-tb-framed.png',
