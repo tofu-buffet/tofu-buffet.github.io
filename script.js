@@ -172,10 +172,11 @@ document.addEventListener('DOMContentLoaded', function() {
         'solitude-tb-framed.png',
         'conceptual-tb-framed.png',
         'trust-anybody-tb-framed.png',
+        'platonic-tb-framed.png',
 /*
         'typing-practice-tb-framed.png',
+        'fool-me-tb-framed.png',
         'rr-tb-framed.png',
-        'platonic-tb-framed.png',
         'unwilling-tb-framed.png',
         'body-like-that-tb-framed.png',
         'rack-tb-framed.png',
@@ -206,7 +207,6 @@ document.addEventListener('DOMContentLoaded', function() {
         'broken-tb-framed.png',
         'hamburger-tb-framed.png',
         'eggplant-tacos-tb-framed.png',
-        'fool-me-tb-framed.png',
 
         'soeur-tb-framed.png',
         'cult-leader-tb-framed.png',
