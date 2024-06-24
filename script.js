@@ -174,6 +174,7 @@ document.addEventListener('DOMContentLoaded', function() {
         'platonic-tb-framed.png',
         'trust-anybody-tb-framed.png',
         'creative-differences-tb-framed.png',
+        'g-ddammit-tb-framed.png',
 /*
         'confidence-tb-framed.png',
         'typing-practice-tb-framed.png',
@@ -183,7 +184,6 @@ document.addEventListener('DOMContentLoaded', function() {
         'body-like-that-tb-framed.png',
         'rack-tb-framed.png',
         'room-six-tb-framed.png',
-        'g-ddammit-tb-framed.png',
         'stuck-tb-framed.png',
         'chatbot2-tb-framed.png',
         'goodtime-tb-framed.png',
