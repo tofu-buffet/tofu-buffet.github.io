@@ -175,6 +175,7 @@ document.addEventListener('DOMContentLoaded', function() {
         'trust-anybody-tb-framed.png',
         'creative-differences-tb-framed.png',
         'g-ddammit-tb-framed.png',
+        'phone-number-tb-framed.png',
 /*
         'confidence-tb-framed.png',
         'typing-practice-tb-framed.png',
@@ -251,7 +252,6 @@ document.addEventListener('DOMContentLoaded', function() {
 
         'international-tb-framed.png',
         'not-crazy-tb-framed.png',
-        'phone-number-tb-framed.png',
         'probably-tb-framed.png',
         'rap-tb-framed.png',
         'restroom-tb-framed.png',
