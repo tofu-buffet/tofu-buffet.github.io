@@ -266,7 +266,7 @@ document.addEventListener('DOMContentLoaded', function() {
         'witness-tb-framed.png',
 */
     ];
-    currentIndex = comics.length - 1;
+    currentIndex = 0; /* comics.length - 1; */
     
     const comicImg = document.getElementById('comic-img');
     const comicNumber = document.getElementById('comic-number'); // Added this line
