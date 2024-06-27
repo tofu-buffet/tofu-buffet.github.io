@@ -341,5 +341,10 @@ document.addEventListener('DOMContentLoaded', function() {
     function updateComic() {
         comicImg.src = comics[currentIndex];
         comicNumber.textContent = `[ ${currentIndex + 1} / ${comics.length} ]`;
+                    firstButton.disabled=true;
+            prevButton.disabled=true;
+            lastButton.disabled=false;
+            nextButton.disabled=false;            
+            updateComic();
     }
 });
