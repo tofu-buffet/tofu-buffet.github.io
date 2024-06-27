@@ -176,6 +176,7 @@ document.addEventListener('DOMContentLoaded', function() {
         'creative-differences-tb-framed.png',
         'g-ddammit-tb-framed.png',
         'phone-number-tb-framed.png',
+        'welding-tb-framed.png',
 /*
         'confidence-tb-framed.png',
         'typing-practice-tb-framed.png',
@@ -190,7 +191,6 @@ document.addEventListener('DOMContentLoaded', function() {
         'goodtime-tb-framed.png',
         'talking-tb-framed.png',
         'war-tb-framed.png',
-        'welding-tb-framed.png',
 
         'penny-tb-framed.png',
         'ukraine-tb-framed.png',
