@@ -266,7 +266,7 @@ document.addEventListener('DOMContentLoaded', function() {
         'witness-tb-framed.png',
 */
     ];
-    currentIndex = 0; /* comics.length - 1; */
+    currentIndex = comics.length - 1; 
     
     const comicImg = document.getElementById('comic-img');
     const comicNumber = document.getElementById('comic-number'); // Added this line
@@ -341,10 +341,5 @@ document.addEventListener('DOMContentLoaded', function() {
     function updateComic() {
         comicImg.src = comics[currentIndex];
         comicNumber.textContent = `[ ${currentIndex + 1} / ${comics.length} ]`;
-                    firstButton.disabled=true;
-            prevButton.disabled=true;
-            lastButton.disabled=false;
-            nextButton.disabled=false;            
-            updateComic();
     }
 });
