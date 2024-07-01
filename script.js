@@ -177,10 +177,10 @@ document.addEventListener('DOMContentLoaded', function() {
         'g-ddammit-tb-framed.png',
         'phone-number-tb-framed.png',
         'welding-tb-framed.png',
+        'fool-me-tb-framed.png',
 /*
         'confidence-tb-framed.png',
         'typing-practice-tb-framed.png',
-        'fool-me-tb-framed.png',
         'rr-tb-framed.png',
         'unwilling-tb-framed.png',
         'body-like-that-tb-framed.png',
