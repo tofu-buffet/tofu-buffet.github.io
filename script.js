@@ -179,7 +179,11 @@ document.addEventListener('DOMContentLoaded', function() {
         'welding-tb-framed.png',
         'fool-me-tb-framed.png',
         'applicant-tb-framed.png',
+        'ruby-tb-framed.png',
 /*
+        'god-name-tb-framed.png',
+        'better-place-tb-framed.png',
+        'hoes-tb-framed.png',
         'confidence-tb-framed.png',
         'typing-practice-tb-framed.png',
         'rr-tb-framed.png',
