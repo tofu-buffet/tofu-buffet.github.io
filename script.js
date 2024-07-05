@@ -179,7 +179,7 @@ document.addEventListener('DOMContentLoaded', function() {
         'welding-tb-framed.png',
         'fool-me-tb-framed.png',
         'applicant-tb-framed.png',
-        'ruby-tb-framed.png',
+        'ruby-tb-framed-white.png',
 /*
         'god-name-tb-framed.png',
         'better-place-tb-framed.png',
