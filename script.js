@@ -181,6 +181,7 @@ document.addEventListener('DOMContentLoaded', function() {
         'applicant-tb-framed.png',
         'ruby-tb-framed.png',
         'god-name-tb-framed.png',
+        'octopus-tb-framed.png',
 /*
         'better-place-tb-framed.png',
         'hoes-tb-framed.png',
