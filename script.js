@@ -183,6 +183,7 @@ document.addEventListener('DOMContentLoaded', function() {
         'god-name-tb-framed.png',
         'octopus-tb-framed.png',
         'better-place-tb-framed.png',
+        'bear-sightings-tb-framed.png',
 /*
         'hoes-tb-framed.png',
         'confidence-tb-framed.png',
