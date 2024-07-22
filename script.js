@@ -184,12 +184,12 @@ document.addEventListener('DOMContentLoaded', function() {
         'octopus-tb-framed.png',
         'better-place-tb-framed.png',
         'bear-sightings-tb-framed.png',
+        'booty-tb-framed.png',
 /*
         'body-like-that-tb-framed.png',
         'stuck-tb-framed.png',
         'talking-tb-framed.png',
         'rack-tb-framed.png',
-        'booty-tb-framed.png',
         'person-tb-framed.png',
         'handsome-tb-framed.png',
         'tanktops-tb-framed.png',
