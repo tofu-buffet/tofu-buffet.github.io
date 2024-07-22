@@ -196,6 +196,7 @@ document.addEventListener('DOMContentLoaded', function() {
         'shaved-tb-framed.png',
         'probably-tb-framed.png',
         'you-suck-tb-framed.png',
+        'reactivate-account-tb-framed.png',
 
         'hoes-tb-framed.png',
         'confidence-tb-framed.png',
