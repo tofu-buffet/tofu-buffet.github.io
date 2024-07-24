@@ -186,6 +186,7 @@ document.addEventListener('DOMContentLoaded', function() {
         'bear-sightings-tb-framed.png',
         'booty-tb-framed.png',
         'shaved-tb-framed.png',
+        'you-suck-tb-framed.png',
 /*
         'probably-tb-framed.png',
         'body-like-that-tb-framed.png',
@@ -195,7 +196,6 @@ document.addEventListener('DOMContentLoaded', function() {
         'person-tb-framed.png',
         'handsome-tb-framed.png',
         'tanktops-tb-framed.png',
-        'you-suck-tb-framed.png',
         'reactivate-account-tb-framed.png',
 
         'hoes-tb-framed.png',
