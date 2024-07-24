@@ -187,11 +187,11 @@ document.addEventListener('DOMContentLoaded', function() {
         'booty-tb-framed.png',
         'shaved-tb-framed.png',
         'you-suck-tb-framed.png',
+        'talking-tb-framed.png',
 /*
         'probably-tb-framed.png',
         'body-like-that-tb-framed.png',
         'stuck-tb-framed.png',
-        'talking-tb-framed.png',
         'rack-tb-framed.png',
         'person-tb-framed.png',
         'handsome-tb-framed.png',
