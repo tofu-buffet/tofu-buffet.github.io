@@ -188,7 +188,9 @@ document.addEventListener('DOMContentLoaded', function() {
         'shaved-tb-framed.png',
         'you-suck-tb-framed.png',
         'talking-tb-framed.png',
+        'jobs-tb-framed.png',
 /*
+        'pornograph-tb-framed.png',
         'probably-tb-framed.png',
         'body-like-that-tb-framed.png',
         'stuck-tb-framed.png',
@@ -198,6 +200,7 @@ document.addEventListener('DOMContentLoaded', function() {
         'tanktops-tb-framed.png',
         'reactivate-account-tb-framed.png',
 
+        'cheats-tb-framed.png',
         'hoes-tb-framed.png',
         'confidence-tb-framed.png',
         'typing-practice-tb-framed.png',
