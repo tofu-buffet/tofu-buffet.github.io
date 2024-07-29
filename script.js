@@ -192,11 +192,11 @@ document.addEventListener('DOMContentLoaded', function() {
         'pornograph-tb-framed.png',
         'probably-tb-framed.png',
         'thigh-gap-tb-framed.png',
+        'apple-tb-framed.png',
 /*
         'caption-tb-framed.png',
         'karma-tb-framed.png',
         'firmly-tb-framed.png',
-        'apple-tb-framed.png',
         'sari-tb-framed.png',
         'body-like-that-tb-framed.png',
         'stuck-tb-framed.png',
