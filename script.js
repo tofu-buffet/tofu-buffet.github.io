@@ -194,11 +194,11 @@ document.addEventListener('DOMContentLoaded', function() {
         'thigh-gap-tb-framed.png',
         'apple-tb-framed.png',
         'sari-tb-framed.png',
+        'body-like-that-tb-framed.png',
 /*
         'caption-tb-framed.png',
         'karma-tb-framed.png',
         'firmly-tb-framed.png',
-        'body-like-that-tb-framed.png',
         'stuck-tb-framed.png',
         'rack-tb-framed.png',
         'person-tb-framed.png',
