@@ -195,6 +195,7 @@ document.addEventListener('DOMContentLoaded', function() {
         'apple-tb-framed.png',
         'sari-tb-framed.png',
         'body-like-that-tb-framed.png',
+        'tanktops-tb-framed.png',
 /*
         'caption-tb-framed.png',
         'karma-tb-framed.png',
@@ -203,7 +204,6 @@ document.addEventListener('DOMContentLoaded', function() {
         'rack-tb-framed.png',
         'person-tb-framed.png',
         'handsome-tb-framed.png',
-        'tanktops-tb-framed.png',
         'reactivate-account-tb-framed.png',
 
         'cheats-tb-framed.png',
