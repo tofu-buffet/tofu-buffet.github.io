@@ -196,6 +196,7 @@ document.addEventListener('DOMContentLoaded', function() {
         'sari-tb-framed.png',
         'body-like-that-tb-framed.png',
         'tanktops-tb-framed.png',
+        'pessimistic-tb-framed.png',
 /*
         'caption-tb-framed.png',
         'karma-tb-framed.png',
@@ -223,7 +224,6 @@ document.addEventListener('DOMContentLoaded', function() {
         'bedtime-tb-framed.png',
         'beg-tb-framed.png',
         'immigrants-tb-framed.png',
-        'pessimistic-tb-framed.png',
         'restaurant-tb-framed.png',
         'unemployed-tb-framed.png',
         'ask-tb-framed.png',
