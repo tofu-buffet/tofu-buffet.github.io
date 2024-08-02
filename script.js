@@ -198,12 +198,18 @@ document.addEventListener('DOMContentLoaded', function() {
         'tanktops-tb-framed.png',
         'pessimistic-tb-framed.png',
 /*
+        'beg-tb-framed.png',
+        'bedtime-tb-framed.png',
+        'argue-tb-framed.png',
+        'humbled2-tb-framed.png',
+        'person-tb-framed.png',
+        'stuck-tb-framed.png',
+        'rack-tb-framed.png',
+        'witness-tb-framed.png',
+
         'caption-tb-framed.png',
         'karma-tb-framed.png',
         'firmly-tb-framed.png',
-        'stuck-tb-framed.png',
-        'rack-tb-framed.png',
-        'person-tb-framed.png',
         'handsome-tb-framed.png',
         'reactivate-account-tb-framed.png',
 
@@ -221,8 +227,6 @@ document.addEventListener('DOMContentLoaded', function() {
         'penny-tb-framed.png',
         'ukraine-tb-framed.png',
         'hegemonic-tb-framed.png',
-        'bedtime-tb-framed.png',
-        'beg-tb-framed.png',
         'immigrants-tb-framed.png',
         'restaurant-tb-framed.png',
         'unemployed-tb-framed.png',
@@ -242,11 +246,9 @@ document.addEventListener('DOMContentLoaded', function() {
         'nerdy-tb-framed.png',
         'piracy-tb-framed.png',
         'weed-tb-framed.png',
-        'argue-tb-framed.png',
         'monetize-tb-framed.png',
         'film-tb-framed.png', 
         'dont-talk-tb-framed.png',
-        'humbled2-tb-framed.png',
         'bathroom-door-tb-framed.png',
         'kierkegaard-tb-framed.png',
         'verify-tb-framed.png',
@@ -282,7 +284,6 @@ document.addEventListener('DOMContentLoaded', function() {
         'traffic-tb-framed.png',
         'tugging-tb-framed.png',
         'used-to-them-tb-framed.png',
-        'witness-tb-framed.png',
 */
     ];
     currentIndex = comics.length - 1; 
