@@ -197,6 +197,7 @@ document.addEventListener('DOMContentLoaded', function() {
         'body-like-that-tb-framed.png',
         'tanktops-tb-framed.png',
         'pessimistic-tb-framed.png',
+        'gigawatts-tb-framed.png',
 /*
         'beg-tb-framed.png',
         'bedtime-tb-framed.png',
