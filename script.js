@@ -198,6 +198,7 @@ document.addEventListener('DOMContentLoaded', function() {
         'tanktops-tb-framed.png',
         'pessimistic-tb-framed.png',
         'gigawatts-tb-framed.png',
+        'cheats-tb-framed.png',
 /*
         'beg-tb-framed.png',
         'bedtime-tb-framed.png',
@@ -214,7 +215,6 @@ document.addEventListener('DOMContentLoaded', function() {
         'handsome-tb-framed.png',
         'reactivate-account-tb-framed.png',
 
-        'cheats-tb-framed.png',
         'hoes-tb-framed.png',
         'confidence-tb-framed.png',
         'typing-practice-tb-framed.png',
