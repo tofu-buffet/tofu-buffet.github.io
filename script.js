@@ -200,7 +200,10 @@ document.addEventListener('DOMContentLoaded', function() {
         'gigawatts-tb-framed.png',
         'cheats-tb-framed.png',
         'room-six-tb-framed.png',
+        'barbie-tb-framed.png',
 /*
+        'fly-tb-framed.png',
+        'charlotte-tb-framed.png',
         'beg-tb-framed.png',
         'bedtime-tb-framed.png',
         'argue-tb-framed.png',
