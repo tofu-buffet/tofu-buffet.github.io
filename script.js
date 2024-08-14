@@ -201,6 +201,7 @@ document.addEventListener('DOMContentLoaded', function() {
         'cheats-tb-framed.png',
         'room-six-tb-framed.png',
         'barbie-tb-framed.png',
+        'omg-tb-framed.png',
 /*
         'fly-tb-framed.png',
         'charlotte-tb-framed.png',
@@ -272,7 +273,6 @@ document.addEventListener('DOMContentLoaded', function() {
         'home-depot-tb-framed.png',
 
         'mayaphone-tb-framed.png',
-        'omg-tb-framed.png',
         'passive-tb-framed.png',
         'power-tb-framed.png',
         
