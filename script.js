@@ -203,6 +203,7 @@ document.addEventListener('DOMContentLoaded', function() {
         'barbie-tb-framed.png',
         'omg-tb-framed.png',
 /*
+        'secure-before-tb-framed.png',
         'fly-tb-framed.png',
         'charlotte-tb-framed.png',
         'beg-tb-framed.png',
