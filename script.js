@@ -205,6 +205,7 @@ document.addEventListener('DOMContentLoaded', function() {
         'whens-birthday-tb-framed.png',
         'secure-before-tb-framed.png',
         'stick-tb-framed.png',
+        'p-tb-framed.png',
 /*
         'fly-tb-framed.png',
         'charlotte-tb-framed.png',
