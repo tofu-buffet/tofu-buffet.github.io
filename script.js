@@ -204,6 +204,7 @@ document.addEventListener('DOMContentLoaded', function() {
         'omg-tb-framed.png',
         'whens-birthday-tb-framed.png',
         'secure-before-tb-framed.png',
+        'stick-tb-framed.png',
 /*
         'fly-tb-framed.png',
         'charlotte-tb-framed.png',
@@ -285,7 +286,6 @@ document.addEventListener('DOMContentLoaded', function() {
         'rap-tb-framed.png',
         'restroom-tb-framed.png',
         'scotch2-tb-framed.png',
-        'stick-tb-framed.png',
         'tired-tb-framed.png',
         'traffic-tb-framed.png',
         'tugging-tb-framed.png',
