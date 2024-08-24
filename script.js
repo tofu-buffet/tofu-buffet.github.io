@@ -206,7 +206,7 @@ document.addEventListener('DOMContentLoaded', function() {
         'secure-before-tb-framed.png',
         'stick-tb-framed.png',
         'p-tb-framed.png',
-        'beatles-tb-framed.png',
+        'beatles2-tb-framed.png',
 /*
         'angels-tb-framed.png',
         'fly-tb-framed.png',
