@@ -208,6 +208,7 @@ document.addEventListener('DOMContentLoaded', function() {
         'p-tb-framed.png',
         'beatles2-tb-framed.png',
         'hoes-tb-framed.png',
+        'unemployed-tb-framed.png',
 /*
         'angels-tb-framed.png',
         'fly-tb-framed.png',
@@ -240,7 +241,6 @@ document.addEventListener('DOMContentLoaded', function() {
         'hegemonic-tb-framed.png',
         'immigrants-tb-framed.png',
         'restaurant-tb-framed.png',
-        'unemployed-tb-framed.png',
         'ask-tb-framed.png',
         'local-maximum-tb-framed.png',
 
