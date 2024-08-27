@@ -207,8 +207,9 @@ document.addEventListener('DOMContentLoaded', function() {
         'stick-tb-framed.png',
         'p-tb-framed.png',
         'beatles2-tb-framed.png',
-        'hoes-tb-framed.png',
         'unemployed-tb-framed.png',
+        'tugging-tb-framed.png',
+        'used-to-them-tb-framed.png',
 /*
         'angels-tb-framed.png',
         'fly-tb-framed.png',
@@ -223,6 +224,7 @@ document.addEventListener('DOMContentLoaded', function() {
         'witness-tb-framed.png',
 
         'caption-tb-framed.png',
+        'hoes-tb-framed.png',
         'karma-tb-framed.png',
         'firmly-tb-framed.png',
         'handsome-tb-framed.png',
@@ -291,8 +293,6 @@ document.addEventListener('DOMContentLoaded', function() {
         'scotch2-tb-framed.png',
         'tired-tb-framed.png',
         'traffic-tb-framed.png',
-        'tugging-tb-framed.png',
-        'used-to-them-tb-framed.png',
 */
     ];
     currentIndex = comics.length - 1; 
