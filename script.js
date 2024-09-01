@@ -210,7 +210,10 @@ document.addEventListener('DOMContentLoaded', function() {
         'unemployed-tb-framed.png',
         'tugging-tb-framed.png',
         'used-to-them-tb-framed.png',
+        'padded-tb-framed.png',
 /*
+        'forces-tb-framed.png',
+        'below-par-behind-8.png',
         'angels-tb-framed.png',
         'fly-tb-framed.png',
         'charlotte-tb-framed.png',
