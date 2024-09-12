@@ -213,6 +213,7 @@ document.addEventListener('DOMContentLoaded', function() {
         'padded-tb-framed.png',
         'forces-tb-framed.png',
         'ai-expert-tb-framed.png',
+        'immature-tb-framed.png',
 /*
         'below-par-behind-8.png',
         'angels-tb-framed.png',
