@@ -215,9 +215,9 @@ document.addEventListener('DOMContentLoaded', function() {
         'ai-expert-tb-framed.png',
         'immature-tb-framed.png',
         'jenn-tb-framed.png',
-/*
-        'chicken-or-beef-tb-framed.png',
         'chatbot-emotions-tb-framed.png',
+        'chicken-or-beef-tb-framed.png',
+/*
         'below-par-behind-8.png',
         'angels-tb-framed.png',
         'fly-tb-framed.png',
