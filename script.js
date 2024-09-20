@@ -218,6 +218,7 @@ document.addEventListener('DOMContentLoaded', function() {
         'chatbot-emotions-tb-framed.png',
         'chicken-or-beef-tb-framed.png',
         'fava-tb-framed.png',
+        'cave-tb-framed.png',
 /*
         'below-par-behind-8.png',
         'angels-tb-framed.png',
