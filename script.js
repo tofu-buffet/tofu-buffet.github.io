@@ -219,6 +219,7 @@ document.addEventListener('DOMContentLoaded', function() {
         'chicken-or-beef-tb-framed.png',
         'fava-tb-framed.png',
         'cave-tb-framed.png',
+        'powers-tb-framed.png',
 /*
         'below-par-behind-8.png',
         'angels-tb-framed.png',
