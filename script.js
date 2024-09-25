@@ -221,6 +221,7 @@ document.addEventListener('DOMContentLoaded', function() {
         'cave-tb-framed.png',
         'powers-tb-framed.png',
 /*
+        'applied-tb-framed.png',
         'behold-tb-framed.png',
         'previously-failed-tb-framed.png',
         'below-par-behind-8.png',
