@@ -225,6 +225,7 @@ document.addEventListener('DOMContentLoaded', function() {
         'behold-tb-framed.png',
         'previously-failed-tb-framed.png',
         'below-par-behind-8.png',
+        'categorical-tb-framed.png',
         'angels-tb-framed.png',
         'fly-tb-framed.png',
         'charlotte-tb-framed.png',
