@@ -220,6 +220,7 @@ document.addEventListener('DOMContentLoaded', function() {
         'fava-tb-framed.png',
         'cave-tb-framed.png',
         'powers-tb-framed.png',
+        'appreciate-tb-framed.png',
 /*
         'applied-tb-framed.png',
         'behold-tb-framed.png',
