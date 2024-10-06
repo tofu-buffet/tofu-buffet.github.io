@@ -222,6 +222,7 @@ document.addEventListener('DOMContentLoaded', function() {
         'powers-tb-framed.png',
         'appreciate-tb-framed.png',
         'long-string-tb-framed.png',
+        'ride-this-ride-tb-framed.png',
 /*
         'applied-tb-framed.png',
         'behold-tb-framed.png',
