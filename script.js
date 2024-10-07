@@ -226,6 +226,8 @@ document.addEventListener('DOMContentLoaded', function() {
         'phd-tb-framed.png',
         'fly-tb-framed.png',
 /*
+        'biggest-so-far-tb-framed.png',
+        'okeefe-tb-framed.png',
         'fresh-fruit-tb-framed.png',
         'grammar-tb-framed.png',
         'inheritance-tax-tb-framed.png',
