@@ -228,6 +228,7 @@ document.addEventListener('DOMContentLoaded', function() {
         'applied-tb-framed.png',
         'okeefe-tb-framed.png',
         'grammar-tb-framed.png',
+        'beg-tb-framed.png',
 /*
         'biggest-so-far-tb-framed.png',
         'fresh-fruit-tb-framed.png',
@@ -239,7 +240,6 @@ document.addEventListener('DOMContentLoaded', function() {
         'categorical-tb-framed.png',
         'angels-tb-framed.png',
         'charlotte-tb-framed.png',
-        'beg-tb-framed.png',
         'bedtime-tb-framed.png',
         'argue-tb-framed.png',
         'humbled2-tb-framed.png',
