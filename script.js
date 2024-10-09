@@ -227,10 +227,10 @@ document.addEventListener('DOMContentLoaded', function() {
         'fly-tb-framed.png',
         'applied-tb-framed.png',
         'okeefe-tb-framed.png',
+        'grammar-tb-framed.png',
 /*
         'biggest-so-far-tb-framed.png',
         'fresh-fruit-tb-framed.png',
-        'grammar-tb-framed.png',
         'inheritance-tax-tb-framed.png',
         'beatles-underrated-tb-framed.png',
         'behold-tb-framed.png',
