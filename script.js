@@ -229,6 +229,7 @@ document.addEventListener('DOMContentLoaded', function() {
         'okeefe-tb-framed.png',
         'grammar-tb-framed.png',
         'beg-tb-framed.png',
+        'listener-tb-framed.png',
 /*
         'biggest-so-far-tb-framed.png',
         'fresh-fruit-tb-framed.png',
