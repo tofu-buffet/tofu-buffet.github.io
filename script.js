@@ -232,6 +232,7 @@ document.addEventListener('DOMContentLoaded', function() {
         'listener-tb-framed.png',
         'rich-tb-framed.png',
 /*
+        'covfefe-tb-framed.png',
         'some-other-way-tb-framed.png',
         'biggest-so-far-tb-framed.png',
         'fresh-fruit-tb-framed.png',
