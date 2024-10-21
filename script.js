@@ -234,6 +234,7 @@ document.addEventListener('DOMContentLoaded', function() {
 /*
         'internet-of-things-tb-framed.png',
         'human-society-tb-framed.png',
+        'sunglasses-tb-framed.png',
         'rasta-patois-tb-framed.png',
         'covfefe-tb-framed.png',
         'some-other-way-tb-framed.png',
