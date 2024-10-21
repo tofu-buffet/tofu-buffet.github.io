@@ -232,10 +232,10 @@ document.addEventListener('DOMContentLoaded', function() {
         'listener-tb-framed.png',
         'rich-tb-framed.png',
         'sunglasses-tb-framed.png',
+        'rasta-patois-tb-framed.png',
 /*
         'internet-of-things-tb-framed.png',
         'human-society-tb-framed.png',
-        'rasta-patois-tb-framed.png',
         'covfefe-tb-framed.png',
         'some-other-way-tb-framed.png',
         'inheritance-tax-tb-framed.png',
