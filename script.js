@@ -232,15 +232,20 @@ document.addEventListener('DOMContentLoaded', function() {
         'listener-tb-framed.png',
         'rich-tb-framed.png',
 /*
-        'sake-tb-framed.png',
+        'internet-of-things-tb-framed.png',
+        'human-society-tb-framed.png',
         'rasta-patois-tb-framed.png',
         'covfefe-tb-framed.png',
         'some-other-way-tb-framed.png',
-        'biggest-so-far-tb-framed.png',
-        'fresh-fruit-tb-framed.png',
         'inheritance-tax-tb-framed.png',
         'beatles-underrated-tb-framed.png',
         'behold-tb-framed.png',
+        'rack-tb-framed.png',
+        'witness-tb-framed.png',
+        
+        'sake-tb-framed.png',
+        'biggest-so-far-tb-framed.png',
+        'fresh-fruit-tb-framed.png',
         'previously-failed-tb-framed.png',
         'below-par-behind-8.png',
         'categorical-tb-framed.png',
@@ -251,8 +256,7 @@ document.addEventListener('DOMContentLoaded', function() {
         'humbled2-tb-framed.png',
         'person-tb-framed.png',
         'stuck-tb-framed.png',
-        'rack-tb-framed.png',
-        'witness-tb-framed.png',
+
 
         'caption-tb-framed.png',
         'hoes-tb-framed.png',
