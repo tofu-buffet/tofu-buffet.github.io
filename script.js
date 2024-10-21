@@ -231,10 +231,10 @@ document.addEventListener('DOMContentLoaded', function() {
         'beg-tb-framed.png',
         'listener-tb-framed.png',
         'rich-tb-framed.png',
+        'sunglasses-tb-framed.png',
 /*
         'internet-of-things-tb-framed.png',
         'human-society-tb-framed.png',
-        'sunglasses-tb-framed.png',
         'rasta-patois-tb-framed.png',
         'covfefe-tb-framed.png',
         'some-other-way-tb-framed.png',
