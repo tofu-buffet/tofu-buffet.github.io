@@ -234,16 +234,16 @@ document.addEventListener('DOMContentLoaded', function() {
         'sunglasses-tb-framed.png',
         'rasta-patois-tb-framed.png',
         'beatles-underrated-tb-framed.png',
+        'some-other-way-tb-framed.png',
+        'thread-tb-framed.png',
 /*
         'internet-of-things-tb-framed.png',
         'human-society-tb-framed.png',
         'covfefe-tb-framed.png',
-        'some-other-way-tb-framed.png',
         'inheritance-tax-tb-framed.png',
         'behold-tb-framed.png',
         'rack-tb-framed.png',
         'witness-tb-framed.png',
-        
         'sake-tb-framed.png',
         'biggest-so-far-tb-framed.png',
         'fresh-fruit-tb-framed.png',
