@@ -236,10 +236,10 @@ document.addEventListener('DOMContentLoaded', function() {
         'beatles-underrated-tb-framed.png',
         'some-other-way-tb-framed.png',
         'thread-tb-framed.png',
+        'covfefe-tb-framed.png',
 /*
         'internet-of-things-tb-framed.png',
         'human-society-tb-framed.png',
-        'covfefe-tb-framed.png',
         'inheritance-tax-tb-framed.png',
         'behold-tb-framed.png',
         'rack-tb-framed.png',
