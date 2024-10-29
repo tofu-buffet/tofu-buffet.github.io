@@ -237,7 +237,10 @@ document.addEventListener('DOMContentLoaded', function() {
         'some-other-way-tb-framed.png',
         'thread-tb-framed.png',
         'covfefe-tb-framed.png',
+        'treat-princess-tb-framed.png',
 /*
+        'contrarian-tb-framed.png',
+        'sugar-granny-tb-framed.png',
         'internet-of-things-tb-framed.png',
         'human-society-tb-framed.png',
         'inheritance-tax-tb-framed.png',
