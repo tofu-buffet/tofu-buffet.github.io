@@ -240,6 +240,7 @@ document.addEventListener('DOMContentLoaded', function() {
         'treat-princess-tb-framed.png',
         'contrarian-tb-framed.png',
         'sugar-granny-tb-framed.png',
+        'reactivate-account-tb-framed.png',
 /*
         'internet-of-things-tb-framed.png',
         'call-rat-tb-framed.png',
@@ -268,7 +269,6 @@ document.addEventListener('DOMContentLoaded', function() {
         'karma-tb-framed.png',
         'firmly-tb-framed.png',
         'handsome-tb-framed.png',
-        'reactivate-account-tb-framed.png',
 
         'confidence-tb-framed.png',
         'typing-practice-tb-framed.png',
