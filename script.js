@@ -239,8 +239,8 @@ document.addEventListener('DOMContentLoaded', function() {
         'covfefe-tb-framed.png',
         'treat-princess-tb-framed.png',
         'contrarian-tb-framed.png',
-/*
         'sugar-granny-tb-framed.png',
+/*
         'internet-of-things-tb-framed.png',
         'inheritance-tax-tb-framed.png',
         'behold-tb-framed.png',
