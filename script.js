@@ -241,9 +241,9 @@ document.addEventListener('DOMContentLoaded', function() {
         'contrarian-tb-framed.png',
         'sugar-granny-tb-framed.png',
         'reactivate-account-tb-framed.png',
+        'call-rat-tb-framed.png',
 /*
         'internet-of-things-tb-framed.png',
-        'call-rat-tb-framed.png',
         'inheritance-tax-tb-framed.png',
         'behold-tb-framed.png',
         'rack-tb-framed.png',
