@@ -242,10 +242,10 @@ document.addEventListener('DOMContentLoaded', function() {
         'sugar-granny-tb-framed.png',
         'reactivate-account-tb-framed.png',
         'call-rat-tb-framed.png',
+        'behold-tb-framed.png',
 /*
         'internet-of-things-tb-framed.png',
         'inheritance-tax-tb-framed.png',
-        'behold-tb-framed.png',
         'rack-tb-framed.png',
         'witness-tb-framed.png',
         'charlotte-tb-framed.png',
