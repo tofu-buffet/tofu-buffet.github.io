@@ -244,8 +244,8 @@ document.addEventListener('DOMContentLoaded', function() {
         'call-rat-tb-framed.png',
         'behold-tb-framed.png',
         'space-cowboy-tb-framed.png',
-/*
         'crypto-dude-tb-framed.png',
+/*
         'internet-of-things-tb-framed.png',
         'inheritance-tax-tb-framed.png',
         'rack-tb-framed.png',
