@@ -245,11 +245,11 @@ document.addEventListener('DOMContentLoaded', function() {
         'behold-tb-framed.png',
         'space-cowboy-tb-framed.png',
         'crypto-dude-tb-framed.png',
+        'witness-tb-framed.png',
 /*
         'internet-of-things-tb-framed.png',
         'inheritance-tax-tb-framed.png',
         'rack-tb-framed.png',
-        'witness-tb-framed.png',
         'charlotte-tb-framed.png',
         'stuck-tb-framed.png',
 
