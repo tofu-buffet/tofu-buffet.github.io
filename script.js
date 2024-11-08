@@ -247,8 +247,8 @@ document.addEventListener('DOMContentLoaded', function() {
         'crypto-dude-tb-framed.png',
         'witness-tb-framed.png',
         'old-road-tb-framed.png',
-/*
         'sitting-gaslighting-tb-framed.png',
+/*
         'deadweight-tb-framed.png',
         'internet-of-things-tb-framed.png',
         'inheritance-tax-tb-framed.png',
