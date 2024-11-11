@@ -248,10 +248,10 @@ document.addEventListener('DOMContentLoaded', function() {
         'witness-tb-framed.png',
         'old-road-tb-framed.png',
         'sitting-gaslighting-tb-framed.png',
+        'inheritance-tax-tb-framed.png',
 /*
         'deadweight-tb-framed.png',
         'internet-of-things-tb-framed.png',
-        'inheritance-tax-tb-framed.png',
         'rack-tb-framed.png',
         'charlotte-tb-framed.png',
         'stuck-tb-framed.png',
