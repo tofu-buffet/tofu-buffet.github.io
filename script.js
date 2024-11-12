@@ -249,6 +249,7 @@ document.addEventListener('DOMContentLoaded', function() {
         'old-road-tb-framed.png',
         'sitting-gaslighting-tb-framed.png',
         'inheritance-tax-tb-framed.png',
+        'cosmic.jpg',
 /*
         'roller-coaster-tb-framed.png',
         'deadweight-tb-framed.png',
