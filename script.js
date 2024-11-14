@@ -250,7 +250,9 @@ document.addEventListener('DOMContentLoaded', function() {
         'sitting-gaslighting-tb-framed.png',
         'inheritance-tax-tb-framed.png',
         'cosmic.jpg',
+        'overton-tb-framed.png',
 /*
+        'check-phase-tb-framed.png',
         'roller-coaster-tb-framed.png',
         'deadweight-tb-framed.png',
         'internet-of-things-tb-framed.png',
