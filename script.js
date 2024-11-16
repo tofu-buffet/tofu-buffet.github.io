@@ -251,7 +251,10 @@ document.addEventListener('DOMContentLoaded', function() {
         'inheritance-tax-tb-framed.png',
         'cosmic.jpg',
         'overton-tb-framed.png',
+        'dark-secret-tb-framed.png',
 /*
+        'hotpot-tb-framed.png',
+        'laser-tb-framed.png',
         'check-phase-tb-framed.png',
         'roller-coaster-tb-framed.png',
         'deadweight-tb-framed.png',
