@@ -253,8 +253,8 @@ document.addEventListener('DOMContentLoaded', function() {
         'overton-tb-framed.png',
         'dark-secret-tb-framed.png',
         'laser-tb-framed.png',
-/*
         'china-cheaper-tb-framed.png',
+/*
         'hotpot-tb-framed.png',
         'check-phase-tb-framed.png',
         'roller-coaster-tb-framed.png',
