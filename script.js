@@ -254,6 +254,7 @@ document.addEventListener('DOMContentLoaded', function() {
         'dark-secret-tb-framed.png',
         'laser-tb-framed.png',
         'china-cheaper-tb-framed.png',
+        'legal-a-tb-framed.png',
 /*
         'hotpot-tb-framed.png',
         'check-phase-tb-framed.png',
