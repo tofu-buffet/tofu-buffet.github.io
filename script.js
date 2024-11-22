@@ -255,13 +255,13 @@ document.addEventListener('DOMContentLoaded', function() {
         'laser-tb-framed.png',
         'china-cheaper-tb-framed.png',
         'legal-a-tb-framed.gif',
+        'rack-tb-framed.png',
 /*
         'hotpot-tb-framed.png',
         'check-phase-tb-framed.png',
         'roller-coaster-tb-framed.png',
         'deadweight-tb-framed.png',
         'internet-of-things-tb-framed.png',
-        'rack-tb-framed.png',
         'charlotte-tb-framed.png',
         'stuck-tb-framed.png',
 
