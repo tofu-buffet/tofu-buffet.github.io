@@ -256,6 +256,7 @@ document.addEventListener('DOMContentLoaded', function() {
         'china-cheaper-tb-framed.png',
         'legal-a-tb-framed.gif',
         'rack-tb-framed.png',
+        'chemicals-tb-framed.png',
 /*
         'hotpot-tb-framed.png',
         'check-phase-tb-framed.png',
