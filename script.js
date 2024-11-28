@@ -410,8 +410,8 @@ document.addEventListener('DOMContentLoaded', function() {
     });
 
     randomButton.addEventListener('click', function() {
-        currentIndex = Math.floor(Math.random() * 95);
-// * comics.length);
+        currentIndex = Math.floor(Math.random() * comics.length);
+    // * 95);
         if (currentIndex==comics.length - 1) {lastButton.disabled=true; 
                                               nextButton.disabled=true; 
                                               firstButton.disabled=false; 
