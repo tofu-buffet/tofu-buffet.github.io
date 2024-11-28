@@ -257,8 +257,8 @@ document.addEventListener('DOMContentLoaded', function() {
         'legal-a-tb-framed.gif',
         'rack-tb-framed.png',
         'chemicals-tb-framed.png',
-/*
         'leaf-blower-tb-framed.png',
+/*
         'homeless-ai-tb-framed.png',
         'replace-ai-tb-framed.png',
         'friendzoned-tb-framed.png',
