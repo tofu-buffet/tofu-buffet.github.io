@@ -258,9 +258,9 @@ document.addEventListener('DOMContentLoaded', function() {
         'rack-tb-framed.png',
         'chemicals-tb-framed.png',
         'leaf-blower-tb-framed.png',
+        'just-friends-tb-framed.png',
 /*
         'decant-tb-framed.png',
-        'just-friends-tb-framed.png',
         'homeless-ai-tb-framed.png',
         'replace-ai-tb-framed.png',
         'friendzoned-tb-framed.png',
