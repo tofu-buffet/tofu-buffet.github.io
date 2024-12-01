@@ -259,6 +259,7 @@ document.addEventListener('DOMContentLoaded', function() {
         'chemicals-tb-framed.png',
         'leaf-blower-tb-framed.png',
         'just-friends-tb-framed.png',
+        'island-tb-framed.png',
 /*
         'decant-tb-framed.png',
         'homeless-ai-tb-framed.png',
