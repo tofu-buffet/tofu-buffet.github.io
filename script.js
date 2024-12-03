@@ -260,6 +260,7 @@ document.addEventListener('DOMContentLoaded', function() {
         'leaf-blower-tb-framed.png',
         'just-friends-tb-framed.png',
         'island-tb-framed.png',
+        'legal-scholar-tb-framed.png',
 /*
         'decant-tb-framed.png',
         'homeless-ai-tb-framed.png',
