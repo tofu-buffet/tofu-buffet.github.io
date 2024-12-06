@@ -261,10 +261,10 @@ document.addEventListener('DOMContentLoaded', function() {
         'just-friends-tb-framed.png',
         'island-tb-framed.png',
         'legal-scholar-tb-framed.png',
+        'replace-ai-tb-framed.png',
 /*
         'decant-tb-framed.png',
         'homeless-ai-tb-framed.png',
-        'replace-ai-tb-framed.png',
         'friendzoned-tb-framed.png',
         'slow-research-tb-framed.png',
         'hotpot-tb-framed.png',
