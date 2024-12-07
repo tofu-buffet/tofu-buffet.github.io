@@ -262,7 +262,9 @@ document.addEventListener('DOMContentLoaded', function() {
         'island-tb-framed.png',
         'legal-scholar-tb-framed.png',
         'replace-ai-tb-framed.png',
+        'cackulus-tb-framed.png',
 /*
+        'cop-tb-framed.png',
         'decant-tb-framed.png',
         'homeless-ai-tb-framed.png',
         'friendzoned-tb-framed.png',
