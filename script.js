@@ -265,6 +265,7 @@ document.addEventListener('DOMContentLoaded', function() {
         'cackulus-tb-framed.png',
 /*
         'cop-tb-framed.png',
+        'seriously-tb-framed.png',
         'decant-tb-framed.png',
         'homeless-ai-tb-framed.png',
         'friendzoned-tb-framed.png',
