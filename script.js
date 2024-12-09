@@ -263,8 +263,8 @@ document.addEventListener('DOMContentLoaded', function() {
         'legal-scholar-tb-framed.png',
         'replace-ai-tb-framed.png',
         'cackulus-tb-framed.png',
-/*
         'cop-tb-framed.png',
+/*
         'seriously-tb-framed.png',
         'decant-tb-framed.png',
         'homeless-ai-tb-framed.png',
