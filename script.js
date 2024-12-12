@@ -264,9 +264,9 @@ document.addEventListener('DOMContentLoaded', function() {
         'replace-ai-tb-framed.png',
         'cackulus-tb-framed.png',
         'cop-tb-framed.png',
+        'seriously-tb-framed.png',
 /*
         'xmas-tb-framed.png',
-        'seriously-tb-framed.png',
         'decant-tb-framed.png',
         'homeless-ai-tb-framed.png',
         'friendzoned-tb-framed.png',
