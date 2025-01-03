@@ -267,11 +267,11 @@ document.addEventListener('DOMContentLoaded', function() {
         'seriously-tb-framed.png',
         'xmas-tb-framed.png',
         'nonfiction-tb-framed.png',
+        'greece-tb-framed.png',
 /*
         'wearing-tb-framed.png',
         'passive-aggressive-tb-framed.png',
         'safe-spaces-tb-framed.png',
-        'greece-tb-framed.png',
         'cow-special-tb-framed.png',
         'changes-tb-framed.png',
         'nfl-tb-framed.png',
