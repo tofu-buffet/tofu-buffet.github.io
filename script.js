@@ -270,12 +270,23 @@ document.addEventListener('DOMContentLoaded', function() {
         'greece-tb-framed.png',
         'cow-special-tb-framed.png',
         'passive-aggressive-tb-framed.png',
+        'narcissist-tb-framed.png',
+        'taylor-series-tb-framed.png',
 /*
+        'prague-cockroach-tb-framed.png',
+        'mgk-tb-framed.png',
+        'santa-tb-framed.png',
+        'kudos-tb-framed.png',
+        'narcissist2-tb-framed.png',
+
+        'more-agency-tb-framed.png',
         'wearing-tb-framed.png',
         'safe-spaces-tb-framed.png',
+        'decant-tb-framed.png',
+        'stuck-tb-framed.png',
+        
         'changes-tb-framed.png',
         'nfl-tb-framed.png',
-        'decant-tb-framed.png',
         'homeless-ai-tb-framed.png',
         'friendzoned-tb-framed.png',
         'slow-research-tb-framed.png',
@@ -285,7 +296,6 @@ document.addEventListener('DOMContentLoaded', function() {
         'deadweight-tb-framed.png',
         'internet-of-things-tb-framed.png',
         'charlotte-tb-framed.png',
-        'stuck-tb-framed.png',
 
         'human-society-tb-framed.png',
         'sake-tb-framed.png',
