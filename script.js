@@ -272,8 +272,8 @@ document.addEventListener('DOMContentLoaded', function() {
         'passive-aggressive-tb-framed.png',
         'narcissist-tb-framed.png',
         'taylor-series-tb-framed.png',
-/*
         'prague-cockroach-tb-framed.png',
+/*
         'mgk-tb-framed.png',
         'santa-tb-framed.png',
         'kudos-tb-framed.png',
