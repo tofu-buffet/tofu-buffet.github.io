@@ -273,8 +273,8 @@ document.addEventListener('DOMContentLoaded', function() {
         'narcissist-tb-framed.png',
         'taylor-series-tb-framed.png',
         'prague-cockroach-tb-framed.png',
-/*
         'mgk-tb-framed.png',
+/*
         'santa-tb-framed.png',
         'kudos-tb-framed.png',
         'narcissist2-tb-framed.png',
