@@ -274,9 +274,9 @@ document.addEventListener('DOMContentLoaded', function() {
         'taylor-series-tb-framed.png',
         'prague-cockroach-tb-framed.png',
         'mgk-tb-framed.png',
+        'difficult-tb-framed.png',
 /*
         'weed-tb-framed.png',
-        'difficult-tb-framed.png',
         'soeur-tb-framed.png',
         'immigrants-tb-framed.png',
         'handsome-tb-framed.png',
