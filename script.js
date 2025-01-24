@@ -100,7 +100,7 @@ document.addEventListener('DOMContentLoaded', function() {
         'whythanks3-tb-framed.png',
         'eden-tb-framed.png',
         'drawrings-tb-framed.png',
-        'stalk.png',
+        'stalk-tb-framed.png',
         'climb-a-tree-tb-framed.png',
         'coach-tb-framed.png',
         'ibm-tb-framed.png',
