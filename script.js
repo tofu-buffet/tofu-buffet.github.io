@@ -277,6 +277,8 @@ document.addEventListener('DOMContentLoaded', function() {
         'difficult-tb-framed.png',
         'stuck-tb-framed.png',
 /*
+        'threeven-prime-tb-framed.png',
+        'hours-money-tb-framed.png',
         'weed-tb-framed.png',
         'soeur-tb-framed.png',
         'immigrants-tb-framed.png',
