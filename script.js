@@ -276,9 +276,9 @@ document.addEventListener('DOMContentLoaded', function() {
         'mgk-tb-framed.png',
         'difficult-tb-framed.png',
         'stuck-tb-framed.png',
+        'hours-money-tb-framed.png',
 /*
         'threeven-prime-tb-framed.png',
-        'hours-money-tb-framed.png',
         'weed-tb-framed.png',
         'soeur-tb-framed.png',
         'immigrants-tb-framed.png',
