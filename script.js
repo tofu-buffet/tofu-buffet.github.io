@@ -279,8 +279,8 @@ document.addEventListener('DOMContentLoaded', function() {
         'hours-money-tb-framed.png',
         'immigrants-tb-framed.png',
         'check-phase-tb-framed.png',
-/*
         'golden-gold-tb-framed.png',
+/*
         'threeven-prime-tb-framed.png',
         'weed-tb-framed.png',
         'soeur-tb-framed.png',
