@@ -282,6 +282,7 @@ document.addEventListener('DOMContentLoaded', function() {
         'golden-gold-tb-framed.png',
         'wtffml-tb-framed.png',
 /*
+        'wrongdoing-tb-framed.png',
         'couple-over-there-tb-framed.png',
         'threeven-prime-tb-framed.png',
         'weed-tb-framed.png',
