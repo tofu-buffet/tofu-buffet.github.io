@@ -280,9 +280,9 @@ document.addEventListener('DOMContentLoaded', function() {
         'immigrants-tb-framed.png',
         'check-phase-tb-framed.png',
         'golden-gold-tb-framed.png',
+        'wtffml-tb-framed.png',
 /*
         'couple-over-there-tb-framed.png',
-        'wtffml-tb-framed.png',
         'threeven-prime-tb-framed.png',
         'weed-tb-framed.png',
         'soeur-tb-framed.png',
