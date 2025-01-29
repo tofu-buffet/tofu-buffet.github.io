@@ -281,9 +281,9 @@ document.addEventListener('DOMContentLoaded', function() {
         'check-phase-tb-framed.png',
         'golden-gold-tb-framed.png',
         'wtffml-tb-framed.png',
+        'wrongdoing-tb-framed.png',
 /*
         'couple-over-there-tb-framed.png',
-        'wrongdoing-tb-framed.png',
         'wearing-tb-framed.png',
         'safe-spaces-tb-framed.png',
         'santa-tb-framed.png',
