@@ -282,9 +282,9 @@ document.addEventListener('DOMContentLoaded', function() {
         'golden-gold-tb-framed.png',
         'wtffml-tb-framed.png',
         'wrongdoing-tb-framed.png',
+        'wearing-tb-framed.png',
 /*
         'couple-over-there-tb-framed.png',
-        'wearing-tb-framed.png',
         'safe-spaces-tb-framed.png',
         'santa-tb-framed.png',
         
