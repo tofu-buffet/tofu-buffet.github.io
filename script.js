@@ -285,9 +285,9 @@ document.addEventListener('DOMContentLoaded', function() {
         'wearing-tb-framed.png',
         'quarrel-tb-framed.png',
         'harvard-phd-tb-framed.png',
+        'deepfake-tb-framed.png',
 /*
         'couple-over-there-tb-framed.png',
-        'deepfake-tb-framed.png',
         'safe-spaces-tb-framed.png',
         'santa-tb-framed.png',
         
