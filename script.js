@@ -286,10 +286,10 @@ document.addEventListener('DOMContentLoaded', function() {
         'quarrel-tb-framed.png',
         'harvard-phd-tb-framed.png',
         'deepfake-tb-framed.png',
+        'santa-tb-framed.png',
 /*
         'couple-over-there-tb-framed.png',
         'safe-spaces-tb-framed.png',
-        'santa-tb-framed.png',
         
         'underjoyed-tb-framed.png',
         'kudos-tb-framed.png',
