@@ -287,8 +287,8 @@ document.addEventListener('DOMContentLoaded', function() {
         'harvard-phd-tb-framed.png',
         'deepfake-tb-framed.png',
         'santa-tb-framed.png',
-/*
         'couple-over-there-tb-framed.png',
+/*
         'safe-spaces-tb-framed.png',
         
         'underjoyed-tb-framed.png',
