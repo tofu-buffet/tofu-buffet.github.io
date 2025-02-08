@@ -288,8 +288,8 @@ document.addEventListener('DOMContentLoaded', function() {
         'deepfake-tb-framed.png',
         'santa-tb-framed.png',
         'couple-over-there-tb-framed.png',
-/*
         'safe-spaces-tb-framed.png',
+/*
         
         'underjoyed-tb-framed.png',
         'kudos-tb-framed.png',
