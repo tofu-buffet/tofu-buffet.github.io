@@ -289,6 +289,7 @@ document.addEventListener('DOMContentLoaded', function() {
         'santa-tb-framed.png',
         'couple-over-there-tb-framed.png',
         'safe-spaces-tb-framed.png',
+        'joie-tb-framed.png',
 /*
         
         'underjoyed-tb-framed.png',
