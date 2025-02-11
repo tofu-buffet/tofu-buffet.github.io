@@ -290,6 +290,7 @@ document.addEventListener('DOMContentLoaded', function() {
         'couple-over-there-tb-framed.png',
         'safe-spaces-tb-framed.png',
         'joie-tb-framed.png',
+        'legal-project.mp4',
 /*
         'red-flag-tb-framed.png',
         'earthworm-tb-framed.png',
