@@ -291,8 +291,8 @@ document.addEventListener('DOMContentLoaded', function() {
         'safe-spaces-tb-framed.png',
         'joie-tb-framed.png',
         'red-flag-tb-framed.png',
-/*
         'earthworm-tb-framed.png',
+/*
         'garbage-novels-tb-framed.png',
         'underjoyed-tb-framed.png',
         'kudos-tb-framed.png',
