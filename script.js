@@ -292,8 +292,9 @@ document.addEventListener('DOMContentLoaded', function() {
         'joie-tb-framed.png',
         'red-flag-tb-framed.png',
         'earthworm-tb-framed.png',
-/*
         'garbage-novels-tb-framed.png',
+/*
+        'climate-denier-tb-framed.png',
         'underjoyed-tb-framed.png',
         'kudos-tb-framed.png',
         'weed-tb-framed.png',
