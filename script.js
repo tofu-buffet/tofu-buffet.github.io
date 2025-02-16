@@ -295,6 +295,7 @@ document.addEventListener('DOMContentLoaded', function() {
         'garbage-novels-tb-framed.png',
         'climate-denier-tb-framed.png',
         'slow-research-tb-framed.png',
+        'goldfish-tb-framed.png',
 /*
         'underjoyed-tb-framed.png',
         'kudos-tb-framed.png',
@@ -377,7 +378,6 @@ document.addEventListener('DOMContentLoaded', function() {
         'fonts-tb-framed.png',
         'gaslighting-tb-framed.png',
         'genetics-tb-framed.png',
-        'goldfish-tb-framed.png',
         'guilty-tb-framed.png',
         'home-depot-tb-framed.png',
 
