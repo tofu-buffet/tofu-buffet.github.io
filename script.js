@@ -297,6 +297,7 @@ document.addEventListener('DOMContentLoaded', function() {
         'slow-research-tb-framed.png',
         'goldfish-tb-framed.png',
         'hard-to-be-a-woman-tb-framed.png',
+        'kinds-of-people-tb-framed.png',
 /*
         'underjoyed-tb-framed.png',
         'kudos-tb-framed.png',
