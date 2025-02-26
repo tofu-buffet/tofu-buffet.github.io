@@ -299,8 +299,8 @@ document.addEventListener('DOMContentLoaded', function() {
         'hard-to-be-a-woman-tb-framed.png',
         'kinds-of-people-tb-framed.png',
         'kite-flying-girl-tb-framed.png',
-/*
         'hotel-arrested-tb-framed.png',
+/*
         'underjoyed-tb-framed.png',
         'kudos-tb-framed.png',
         'weed-tb-framed.png',
