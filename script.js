@@ -300,6 +300,7 @@ document.addEventListener('DOMContentLoaded', function() {
         'kinds-of-people-tb-framed.png',
         'kite-flying-girl-tb-framed.png',
         'hotel-arrested-tb-framed.png',
+        'dre-tb-framed.png',
 /*
         'underjoyed-tb-framed.png',
         'kudos-tb-framed.png',
