@@ -303,10 +303,11 @@ document.addEventListener('DOMContentLoaded', function() {
         'dre-tb-framed.png',
         'drown-sorrows-tb-framed.png',
         'chess-hustler-tb-framed.png',
+        'underjoyed-tb-framed.png',
+        'nimby-tb-framed.png',
 /*
         'sexpert-tb-framed.png',
         'charmer-tb-framed.png',
-        'underjoyed-tb-framed.png',
         'kudos-tb-framed.png',
         'weed-tb-framed.png',
         'soeur-tb-framed.png',
