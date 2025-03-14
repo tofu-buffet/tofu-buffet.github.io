@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Gallery</title>
+    <title>Painting Gallery</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -32,26 +32,33 @@
 </head>
 <body>
 
-    <h1>Painting Gallery (Sold)</h1>
+    <h1>Painting Gallery</h1>
     <div class="gallery" id="gallery"></div>
 
     <script>
-        async function fetchImages() {
-            const response = await fetch('.');
-            const text = await response.text();
-            const parser = new DOMParser();
-            const doc = parser.parseFromString(text, 'text/html');
-            const images = Array.from(doc.querySelectorAll('a'))
-                .map(a => a.href)
-                .filter(href => /\.(jpg|jpeg|png|gif|webp)$/i.test(href));
+        const repoOwner = "kevincrawfordknight";
+        const repoName = "tofu-buffet";
+        const branch = "main"; // Change if using a different branch
+        const directory = ""; // Set to the folder containing images (if in root, leave empty)
 
-            const gallery = document.getElementById('gallery');
-            images.forEach(src => {
-                const img = document.createElement('img');
-                img.src = src;
-                img.onclick = () => window.open(src, '_blank');
-                gallery.appendChild(img);
-            });
+        async function fetchImages() {
+            const apiUrl = `https://api.github.com/repos/${repoOwner}/${repoName}/contents/${directory}?ref=${branch}`;
+            try {
+                const response = await fetch(apiUrl);
+                const files = await response.json();
+                const gallery = document.getElementById('gallery');
+
+                files.forEach(file => {
+                    if (/\.(jpg|jpeg|png|gif|webp)$/i.test(file.name)) {
+                        const img = document.createElement('img');
+                        img.src = file.download_url;
+                        img.onclick = () => window.open(file.download_url, '_blank');
+                        gallery.appendChild(img);
+                    }
+                });
+            } catch (error) {
+                console.error("Error fetching images:", error);
+            }
         }
 
         fetchImages();
