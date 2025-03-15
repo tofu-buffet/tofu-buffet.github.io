@@ -306,6 +306,7 @@ document.addEventListener('DOMContentLoaded', function() {
         'underjoyed-tb-framed.png',
         'nimby-tb-framed.png',
         'danger-tb-framed.png',
+        'ramen.gif',
 /*
         'sexpert-tb-framed.png',
         'charmer-tb-framed.png',
