@@ -305,6 +305,7 @@ document.addEventListener('DOMContentLoaded', function() {
         'chess-hustler-tb-framed.png',
         'underjoyed-tb-framed.png',
         'nimby-tb-framed.png',
+        'danger-tb-framed.png',
 /*
         'sexpert-tb-framed.png',
         'charmer-tb-framed.png',
