@@ -270,7 +270,7 @@ document.addEventListener('DOMContentLoaded', function() {
         'greece-tb-framed.png',
         'cow-special-tb-framed.png',
         'passive-aggressive-tb-framed.png',
-        'narcissist-tb-framed.png',
+        'narc3-tb-framed.png',
         'taylor-series-tb-framed.png',
         'prague-cockroach-tb-framed.png',
         'mgk-tb-framed.png',
