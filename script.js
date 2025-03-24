@@ -312,7 +312,9 @@ document.addEventListener('DOMContentLoaded', function() {
         'handsome-tb-framed.png',
         'stop-making-out-tb-framed.png',
         'made-worse-tb-framed.png',
+        'national-flag-tb-framed.png',
         'cybertruck-tb-framed.png',
+        
         
         'sexpert-tb-framed.png',
         'charmer-tb-framed.png',
