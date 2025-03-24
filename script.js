@@ -308,12 +308,16 @@ document.addEventListener('DOMContentLoaded', function() {
         'danger-tb-framed.png',
         'ramen.gif',
 /*
+        'handsome-tb-framed.png',
+        'stop-making-out-tb-framed.png',
+        'made-worse-tb-framed.png',
+        'cybertruck-tb-framed.png',
+        
         'sexpert-tb-framed.png',
         'charmer-tb-framed.png',
         'kudos-tb-framed.png',
         'weed-tb-framed.png',
         'soeur-tb-framed.png',
-        'handsome-tb-framed.png',
         'decant-tb-framed.png',
         'narcissist2-tb-framed.png',
 
