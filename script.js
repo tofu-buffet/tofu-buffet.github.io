@@ -313,6 +313,7 @@ document.addEventListener('DOMContentLoaded', function() {
         'stop-making-out-tb-framed.png',
         'made-worse-tb-framed.png',
         'national-flag-tb-framed.png',
+        'metronome-tb-framed.png',
         'cybertruck-tb-framed.png',
         
         
