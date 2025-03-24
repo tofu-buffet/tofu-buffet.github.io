@@ -308,6 +308,7 @@ document.addEventListener('DOMContentLoaded', function() {
         'danger-tb-framed.png',
         'ramen.gif',
 /*
+        'would-you-date-tb-framed.png',
         'handsome-tb-framed.png',
         'stop-making-out-tb-framed.png',
         'made-worse-tb-framed.png',
