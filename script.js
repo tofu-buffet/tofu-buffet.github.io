@@ -317,6 +317,7 @@ document.addEventListener('DOMContentLoaded', function() {
         'goofy-sexy-tb-framed.png',
         'air-support-tb-framed.png',
 /*
+        'fishnet-tacos-tb-framed.png',
         'homeless-control-tb-framed.png',
         'national-flag-tb-framed.png',        
         'sexpert-tb-framed.png',
