@@ -315,8 +315,9 @@ document.addEventListener('DOMContentLoaded', function() {
         'cybertruck-tb-framed.png',
         'first-date-gold-bars-tb-framed.png',
         'goofy-sexy-tb-framed.png',
+        'air-support-tb-framed.png',
 /*
-        
+        'homeless-control-tb-framed.png',
         'national-flag-tb-framed.png',        
         'sexpert-tb-framed.png',
         'charmer-tb-framed.png',
