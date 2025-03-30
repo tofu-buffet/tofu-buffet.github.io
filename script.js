@@ -316,8 +316,9 @@ document.addEventListener('DOMContentLoaded', function() {
         'first-date-gold-bars-tb-framed.png',
         'goofy-sexy-tb-framed.png',
         'air-support-tb-framed.png',
-/*
         'fishnet-tacos-tb-framed.png',
+        'decant-tb-framed.png',
+/*
         'homeless-control-tb-framed.png',
         'national-flag-tb-framed.png',        
         'sexpert-tb-framed.png',
@@ -325,7 +326,6 @@ document.addEventListener('DOMContentLoaded', function() {
         'kudos-tb-framed.png',
         'weed-tb-framed.png',
         'soeur-tb-framed.png',
-        'decant-tb-framed.png',
         'narcissist2-tb-framed.png',
 
         'threeven-prime-tb-framed.png',
