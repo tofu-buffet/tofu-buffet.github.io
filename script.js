@@ -318,6 +318,8 @@ document.addEventListener('DOMContentLoaded', function() {
         'air-support-tb-framed.png',
         'fishnet-tacos-tb-framed.png',
         'decant-tb-framed.png',
+        'sleep-in-car-tb-framed.png',
+        'wrong-face-tb-framed.png',
 /*
         'homeless-control-tb-framed.png',
         'national-flag-tb-framed.png',        
