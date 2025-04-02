@@ -321,8 +321,9 @@ document.addEventListener('DOMContentLoaded', function() {
         'sleep-in-car-tb-framed.png',
         'wrong-face-tb-framed.png',
         'apology-tour-tb-framed.png',
-/*
         'homeless-control-tb-framed.png',
+        'mu-dessert-tb-framed.png',
+/*
         'national-flag-tb-framed.png',        
         'sexpert-tb-framed.png',
         'charmer-tb-framed.png',
