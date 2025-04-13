@@ -324,6 +324,10 @@ document.addEventListener('DOMContentLoaded', function() {
         'homeless-control-tb-framed.png',
         'sieg-tb-framed.png',
         'best-subjects-tb-framed.png',
+        'art-not-crack-tb-framed.png',
+        'chattering-monkeys-tb-framed.png',
+        'animation-tb-framed.png',
+        'atlanta-tb-framed.png',
 /*
         'mu-dessert-tb-framed.png',
         'national-flag-tb-framed.png',        
