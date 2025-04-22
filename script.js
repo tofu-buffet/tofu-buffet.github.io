@@ -331,18 +331,18 @@ document.addEventListener('DOMContentLoaded', function() {
         'guys-tb-framed.png',
         'chattering-monkeys-tb-framed.png',
         'having-integrity-tb-framed.png',
-/*
         'contrapositive-new-york-tb-framed.png',
-        'driverless-carriage-tb-framed.png',
+        'weed-tb-framed.png',
         'disoriented-tb-framed.png',
         'carpet-tb-framed.png',
         'double-space-tb-framed.png',
+        'driverless-carriage-tb-framed.png',
+/*
         'mu-dessert-tb-framed.png',
         'national-flag-tb-framed.png',        
         'sexpert-tb-framed.png',
         'charmer-tb-framed.png',
         'kudos-tb-framed.png',
-        'weed-tb-framed.png',
         'soeur-tb-framed.png',
         'narcissist2-tb-framed.png',
 
