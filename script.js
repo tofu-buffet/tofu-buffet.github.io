@@ -330,7 +330,13 @@ document.addEventListener('DOMContentLoaded', function() {
         'step-back-tb-framed.png',
         'guys-tb-framed.png',
         'chattering-monkeys-tb-framed.png',
+        'having-integrity-tb-framed.png',
 /*
+        'contrapositive-new-york-tb-framed.png',
+        'driverless-carriage-tb-framed.png',
+        'disoriented-tb-framed.png',
+        'carpet-tb-framed.png',
+        'double-space-tb-framed.png',
         'mu-dessert-tb-framed.png',
         'national-flag-tb-framed.png',        
         'sexpert-tb-framed.png',
