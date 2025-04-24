@@ -340,8 +340,8 @@ document.addEventListener('DOMContentLoaded', function() {
         'jesus-saves-tb-framed.png',
         'best-rapper-tb-framed.png',
         'its-not-you-tb-framed.png',
-/*
         'dino-nigh-tb-framed.png',
+/*
         'mu-dessert-tb-framed.png',
         'national-flag-tb-framed.png',        
         'sexpert-tb-framed.png',
