@@ -337,6 +337,9 @@ document.addEventListener('DOMContentLoaded', function() {
         'carpet-tb-framed.png',
         'double-space-tb-framed.png',
         'driverless-carriage-tb-framed.png',
+        'jesus-saved-tb-framed.png',
+        'best-rapper-tb-framed.png',
+        'its-not-me-tb-framed.png',
 /*
         'mu-dessert-tb-framed.png',
         'national-flag-tb-framed.png',        
