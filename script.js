@@ -341,6 +341,7 @@ document.addEventListener('DOMContentLoaded', function() {
         'best-rapper-tb-framed.png',
         'its-not-you-tb-framed.png',
         'dino-nigh-tb-framed.png',
+        'tofu-buffet-cover.png',
 /*
         'mu-dessert-tb-framed.png',
         'national-flag-tb-framed.png',        
