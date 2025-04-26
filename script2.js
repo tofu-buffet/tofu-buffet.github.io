@@ -73,7 +73,6 @@ document.addEventListener('DOMContentLoaded', function() {
 'joie-tb-framed.png',
 'work-life-tb-framed.png',
 'tofu-buffet-cover.png'
-*/
     ];
     currentIndex = comics.length - 1; 
     
