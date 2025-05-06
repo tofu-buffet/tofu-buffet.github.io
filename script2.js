@@ -413,7 +413,6 @@ document.addEventListener('DOMContentLoaded', function() {
         'dont-talk-tb-framed.png',
         'bathroom-door-tb-framed.png',
         'kierkegaard-tb-framed.png',
-        'verify-tb-framed.png',
         
         'anxiety-tb-framed.png',
         'careful-tb-framed.png',
